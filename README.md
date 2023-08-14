@@ -6,37 +6,21 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 
 ## What You'll Learn
 
-### 1. Introduction to Copywriting
- - Understanding the role of copywriting in marketing
- - Differentiating between copywriting and content writing
+| Module                               | Learning Objectives                                              | Links |
+|--------------------------------------|------------------------------------------------------------------|-------|
+| Introduction to Copywriting          | - Understanding the role of copywriting in marketing <br> - Differentiating between copywriting and content writing               | [Link](#module1) |
+| Effective Copywriting Techniques      | - Crafting attention-grabbing headlines and taglines <br> -             | [Link](#module2) |
+|                                      | - Mastering persuasive language and emotional appeal             |       |
+| Target Audience and Buyer Personas    | - Identifying and analyzing target audiences <br> -                   | [Link](#module3) |
+|                                      | - Creating buyer personas for targeted communication             |       |
+| Structuring Your Copy                 | - Organizing copy for clarity and impact <br> -                       | [Link](#module4) |
+|                                      | - Using the AIDA (Attention, Interest, Desire, Action) model      |       |
+| Storytelling in Copywriting           | - Incorporating storytelling elements to engage readers <br> -         | [Link](#module5) |
+|                                      | - Creating a narrative that resonates with the audience         |       |
+| SEO and Copywriting                   | - Understanding SEO principles for online copy <br> - Balancing keyword optimization with natural language                 | [Link](#module6) |
+| Call to Action (CTA)                  | - Writing compelling CTAs that drive desired actions <br> - Placing CTAs strategically within the copy                    | [Link](#module7) |
+| Editing and Proofreading              | - Polishing your copy for grammar, style, and tone <br> - Checking for consistency and coherence              | [Link](#module8) |
 
-### 2. Effective Copywriting Techniques
-   - Crafting attention-grabbing headlines and taglines
-   - Mastering persuasive language and emotional appeal
-
-### 3. Target Audience and Buyer Personas
-   - Identifying and analyzing target audiences
-   - Creating buyer personas for targeted communication
-
-### 4. Structuring Your Copy
-   - Organizing copy for clarity and impact
-   - Using the AIDA (Attention, Interest, Desire, Action) model
-
-### 5. Storytelling in Copywriting
-   - Incorporating storytelling elements to engage readers
-   - Creating a narrative that resonates with the audience
-
-### 6. SEO and Copywriting
-   - Understanding SEO principles for online copy
-   - Balancing keyword optimization with natural language
-
-### 7. Call to Action (CTA)
-   - Writing compelling CTAs that drive desired actions
-   - Placing CTAs strategically within the copy
-
-### 8. Editing and Proofreading
-   - Polishing your copy for grammar, style, and tone
-   - Checking for consistency and coherence
 
 ## Course Benefits
 
