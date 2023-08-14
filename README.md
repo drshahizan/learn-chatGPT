@@ -1,4 +1,4 @@
-# Copywriting with ChatGPT: Crafting Compelling Content
+# Copywriting with ChatGPT
 
 ## Course Overview:
 Discover the dynamic fusion of copywriting and ChatGPT in this engaging course. Unveil the potential of using ChatGPT to fashion persuasive and captivating written content that resonates with audiences and spurs them to action.
