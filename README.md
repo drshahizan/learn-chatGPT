@@ -18,6 +18,18 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 | Editing and Proofreading              | - Polishing your copy for grammar, style, and tone <br> - Checking for consistency and coherence              | [Link](#module8) |
 
 
+ 👇🏽 𝗣𝗿𝗼𝗺𝗽𝘁𝘀 
+
+𝗪𝗿𝗶𝘁𝗲𝘀𝗼𝗻𝗶𝗰 ➜ https://writesonic.com/blog/chatgpt-p...
+𝗣𝗿𝗼𝗺𝗽𝘁𝗵𝗲𝗿𝗼 ➜ https://prompthero.com/chatgpt-prompts
+𝗖𝗿𝗲𝗮𝘁𝗲 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗣𝗿𝗼𝗺𝗽𝘁𝘀 ➜ https://wl.tools/prompts
+
+👇🏽 𝗖𝗵𝗿𝗼𝗺𝗲 𝗘𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀
+
+- [𝗔𝗜𝗣𝗥𝗠](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj?hl=en)
+- [𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗪𝗿𝗶𝘁𝗲𝗿](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp?hl=en)
+- [𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗳𝗼𝗿 𝗚𝗼𝗼𝗴𝗹e](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=en)
+
 ## Course Benefits
 
 - Gain practical copywriting skills applicable in various industries.
