@@ -30,7 +30,7 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
    - Understanding SEO principles for online copy
    - Balancing keyword optimization with natural language
 
-### 7. Call to Action (CTA
+### 7. Call to Action (CTA)
    - Writing compelling CTAs that drive desired actions
    - Placing CTAs strategically within the copy
 
