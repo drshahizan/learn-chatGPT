@@ -9,14 +9,10 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 | Module                               | Learning Objectives                                              | Links |
 |--------------------------------------|------------------------------------------------------------------|-------|
 | Introduction to Copywriting          | - Understanding the role of copywriting in marketing <br> - Differentiating between copywriting and content writing               | [Link](#module1) |
-| Effective Copywriting Techniques      | - Crafting attention-grabbing headlines and taglines <br> -             | [Link](#module2) |
-|                                      | - Mastering persuasive language and emotional appeal             |       |
-| Target Audience and Buyer Personas    | - Identifying and analyzing target audiences <br> -                   | [Link](#module3) |
-|                                      | - Creating buyer personas for targeted communication             |       |
-| Structuring Your Copy                 | - Organizing copy for clarity and impact <br> -                       | [Link](#module4) |
-|                                      | - Using the AIDA (Attention, Interest, Desire, Action) model      |       |
-| Storytelling in Copywriting           | - Incorporating storytelling elements to engage readers <br> -         | [Link](#module5) |
-|                                      | - Creating a narrative that resonates with the audience         |       |
+| Effective Copywriting Techniques      | - Crafting attention-grabbing headlines and taglines <br> -  Mastering persuasive language and emotional appeal           | [Link](#module2) |
+| Target Audience and Buyer Personas    | - Identifying and analyzing target audiences <br> - Creating buyer personas for targeted communication                  | [Link](#module3) |
+| Structuring Your Copy                 | - Organizing copy for clarity and impact <br> - Using the AIDA (Attention, Interest, Desire, Action) model                       | [Link](#module4) |
+| Storytelling in Copywriting           | - Incorporating storytelling elements to engage readers <br> - Creating a narrative that resonates with the audience         | [Link](#module5) |
 | SEO and Copywriting                   | - Understanding SEO principles for online copy <br> - Balancing keyword optimization with natural language                 | [Link](#module6) |
 | Call to Action (CTA)                  | - Writing compelling CTAs that drive desired actions <br> - Placing CTAs strategically within the copy                    | [Link](#module7) |
 | Editing and Proofreading              | - Polishing your copy for grammar, style, and tone <br> - Checking for consistency and coherence              | [Link](#module8) |
