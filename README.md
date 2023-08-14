@@ -54,3 +54,6 @@ Discover the dynamic fusion of copywriting and ChatGPT in this engaging course. 
 - Content creators intrigued by the realm of AI-augmented content.
 - Marketers aiming to elevate their written communication.
 - Entrepreneurs crafting persuasive marketing materials.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
