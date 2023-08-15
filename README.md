@@ -20,8 +20,8 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="prompts/expert-prompts/" %}
-[expert-prompts](prompts/expert-prompts/)
+{% content-ref url="prompts/expert-prompts.md" %}
+[expert-prompts.md](prompts/expert-prompts.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

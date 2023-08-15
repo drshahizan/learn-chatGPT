@@ -17,8 +17,8 @@
 
 ## Prompts
 
-* [🛠 ChatGPT Expert Prompts](prompts/expert-prompts/README.md)
-  * [AIPRM for ChatGPT](prompts/expert-prompts/tools.md)
+* [🛠 ChatGPT Expert Prompts](prompts/expert-prompts.md)
+* [AIPRM for ChatGPT](prompts/aiprm-for-chatgpt.md)
 
 ## Product Guides
 
