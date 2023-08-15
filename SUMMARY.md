@@ -6,7 +6,7 @@
 ## Introduction
 
 * [💡 Role of Copywriting](introduction/role-of-copywriting.md)
-* [✨ Our Features](introduction/our-features.md)
+* [✨ Copywriting and content writing](introduction/copywriting-and-content-writing.md)
 
 ## Product Guides
 

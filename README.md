@@ -12,8 +12,8 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 [role-of-copywriting.md](introduction/role-of-copywriting.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/our-features.md" %}
-[our-features.md](introduction/our-features.md)
+{% content-ref url="introduction/copywriting-and-content-writing.md" %}
+[copywriting-and-content-writing.md](introduction/copywriting-and-content-writing.md)
 {% endcontent-ref %}
 
 ## Get Started
