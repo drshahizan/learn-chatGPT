@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# 🛠 ChatGPT Expert Prompts
 
 <details>
 
@@ -7,6 +7,8 @@
 
 
 </details>
+
+{% embed url="https://juliandigitaledge.notion.site/juliandigitaledge/1100-ChatGPT-Content-Marketing-Expert-Prompts-d737b3eca4af4d95a5c08f8e7fd1f431" %}
 
 <details>
 
