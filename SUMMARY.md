@@ -18,7 +18,8 @@
 ## Prompts
 
 * [🛠 ChatGPT Expert Prompts](prompts/expert-prompts.md)
-* [AIPRM for ChatGPT](prompts/aiprm-for-chatgpt.md)
+* [AIPRM for ChatGPT](prompts/aiprm-for-chatgpt/README.md)
+  * [Top 10 AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/top-10-aiprm-prompt-templates.md)
 * [ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
 
 ## Product Guides
