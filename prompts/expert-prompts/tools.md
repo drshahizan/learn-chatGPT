@@ -34,3 +34,5 @@ Additional details about AIPRM for ChatGPT:
   * The ability to rate and review prompt templates
 
 {% embed url="https://youtu.be/woV4zJUobcc" %}
+
+{% embed url="https://youtu.be/aVJIXw-AXpw" %}
