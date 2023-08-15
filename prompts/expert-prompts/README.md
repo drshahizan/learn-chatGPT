@@ -20,6 +20,8 @@ For instance, in a dialogue scenario, you can start the conversation with a syst
 
 Overall, **ChatGPT Expert Prompts** help users have more controlled and productive interactions with the AI by steering the conversation according to their needs and preferences.
 
+{% embed url="https://juliandigitaledge.notion.site/juliandigitaledge/The-Complete-ChatGPT-Guide-for-Teachers-fd1ff57adb314ad684f337364c0c9ed1" %}
+
 {% embed url="https://juliandigitaledge.notion.site/juliandigitaledge/1100-ChatGPT-Content-Marketing-Expert-Prompts-d737b3eca4af4d95a5c08f8e7fd1f431" %}
 
 {% embed url="https://writesonic.com/blog/chatgpt-prompts/" %}
