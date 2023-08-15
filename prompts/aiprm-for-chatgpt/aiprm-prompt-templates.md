@@ -50,10 +50,6 @@ To use it, you have to enter a primary keyword you want to create content. After
 [Try Monthly Content Calendar Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1784450454512730112/get-monthly-content-calendar-in-1-click/try) now, and get awesome content ideas!
 {% endhint %}
 
-\
-![Content Creator ( Source: Unsplash )](https://static.wixstatic.com/media/11062b\_c8cee32c3c1249b4b044509a49569857\~mv2.jpg/v1/fill/w\_1480,h\_1056,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/11062b\_c8cee32c3c1249b4b044509a49569857\~mv2.jpg)Content Creator ( Source: Unsplash )\
-
-
 #### 5 ) [YouTube Script Creator](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator) <a href="#viewer-aq3q7" id="viewer-aq3q7"></a>
 
 This AIPRM prompt template is specially made for YouTubers and content creators. Writing or creating a script for a YouTube video consumes a lot of time and effort. But now that problem is solved!
@@ -82,8 +78,7 @@ AIPRM provides SILO structure creator as a prompt template that you can use to c
 
 The code generator ( CODAI ) helps you to **generate the code snippets and answers in a few seconds**. It can generate code in multiple languages such as HTML CSS, JavaScipt, Python, etc.
 
-To use that, you have to enter your query or question in the search bar such as "Generate HTML, CSS, and JavaScript code for a basic website", and then it will start generating the code. Same as you can do it for other languages.\
-
+To use that, you have to enter your query or question in the search bar such as "Generate HTML, CSS, and JavaScript code for a basic website", and then it will start generating the code. Same as you can do it for other languages.
 
 [Try the Code Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1788878358659198976/code-generator/try) now, and improve your coding skill!
 
@@ -93,10 +88,9 @@ Every website, blog, or social media company needs to send an email newsletter e
 
 To make this thing easy, AIPRM provides an email newsletter creator that can help you to **create an engaging newsletter** with every important little thing such as title, subtitle, paragraphs, resources, call-to-action, and more. For that, enter a newsletter name with a few keywords, and then it will create a whole email newsletter in seconds for you.
 
-\
-
-
+{% hint style="info" %}
 [Try the Email Newsletter Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1793746320780169216/create-a-pro-email-newsletter/try) now, and engage your audience!
+{% endhint %}
 
 #### 10 ) [One-Click Course Creator](https://app.aiprm.com/prompts/1786373398000300032/one-click-course-creator) <a href="#viewer-18bea" id="viewer-18bea"></a>
 
@@ -104,10 +98,9 @@ Course creators can help you create all the necessary things required to **make 
 
 It will generate the course outline, objectives, lesson plans, activities, real-world examples, exercises, project plans, resources, and many more. Just enter the title of the course, such as "Web Development", and then it will create the best course structure.
 
+{% hint style="info" %}
 [Try the Course Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1786373398000300032/one-click-course-creator/try) now, and give a better learning experience to students and learners!
-
-\
-![Online Course ( Media from Wix )](https://static.wixstatic.com/media/nsplsh\_66683968bc744b819cf53d4b78d01e3b\~mv2.jpg/v1/fill/w\_1480,h\_986,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/nsplsh\_66683968bc744b819cf53d4b78d01e3b\~mv2.jpg)Online Course ( Media from Wix )
+{% endhint %}
 
 ### Frequently Asked Questions ( FAQs ) <a href="#viewer-1vq5t" id="viewer-1vq5t"></a>
 
