@@ -2,7 +2,7 @@
 description: Understanding the Role of Copywriting in Marketing with "My Bola"
 ---
 
-# 👨🏫 Role of Copywriting
+# ℹ Description
 
 Copywriting plays a crucial role in marketing by creating compelling and persuasive content that captures the attention of the audience and drives them to take desired actions. Let's explore how copywriting can enhance the marketing efforts of "My Bola," the football club in Johor Bahru, Malaysia.
 
