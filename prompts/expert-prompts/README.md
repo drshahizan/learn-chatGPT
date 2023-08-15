@@ -24,6 +24,8 @@ Overall, **ChatGPT Expert Prompts** help users have more controlled and producti
 
 {% embed url="https://writesonic.com/blog/chatgpt-prompts/" %}
 
+{% embed url="https://juliandigitaledge.notion.site/juliandigitaledge/250-ChatGPT-4-Productivity-Prompts-e36826d4e9a44538a1936e492fce4338" %}
+
 {% embed url="https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733" %}
 
 {% embed url="https://juliandigitaledge.notion.site/100-2023-AI-Tools-4dd3b650eb2644e18fdaf25bd82299b8" %}
