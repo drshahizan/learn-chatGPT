@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Copywriting with ChatGPT](README.md)
+* [Page](page.md)
 
 ## Overview
 
