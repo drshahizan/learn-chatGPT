@@ -1,9 +1,7 @@
 # ⚡ Content Writing
 
-##
-
 {% hint style="info" %}
-
+Write content writing about football club name "My Bola". "My Bola" location in Johor Bahru, Malaysia.
 {% endhint %}
 
 ## **Discover the Essence of "My Bola": A Football Club Rooted in Passion**
