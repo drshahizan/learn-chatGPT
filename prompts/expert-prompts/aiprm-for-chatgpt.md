@@ -1,6 +1,6 @@
-# Tools
+# AIPRM for ChatGPT
 
-## AIPRM for ChatGPT
+
 
 {% embed url="https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj?hl=en" %}
 Chrome web store
