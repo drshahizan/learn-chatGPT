@@ -1,5 +1,13 @@
 # Tools
 
+## AIPRM for ChatGPT
+
+{% embed url="https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj?hl=en" %}
+Chrome web store
+{% endembed %}
+
+
+
 AIPRM adds a list of curated prompt templates for SEO, SaaS and more to ChatGPT. Try today.
 
 ```
@@ -29,3 +37,5 @@ Join the new vibrant Prompt Engineering Community at https://forum.aiprm.com/
 
 Please note: AIPRM doesn’t support or endorse using other ChatGPT extensions in parallel to AIPRM. Please uninstall all those other extensions.
 ```
+
+{% embed url="https://youtu.be/woV4zJUobcc" %}
