@@ -5,8 +5,9 @@
 
 ## Introduction
 
+* [ChatGPT](introduction/chatgpt.md)
 * [💡 Role of Copywriting](introduction/role-of-copywriting.md)
-* [⚽ Case study](introduction/case-study.md)
+* [⚽ Case study 1](introduction/case-study-1.md)
 * [👨🏫 Role of Copywriting](introduction/role-of-copywriting-1.md)
 * [✨ Copywriting and content writing](introduction/copywriting-and-content-writing.md)
 
