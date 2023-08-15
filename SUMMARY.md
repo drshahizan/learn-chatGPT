@@ -3,10 +3,10 @@
 * [👋 Copywriting with ChatGPT](README.md)
 * [Page](page.md)
 
-## Overview
+## Introduction
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Role of Copywriting](introduction/role-of-copywriting.md)
+* [✨ Our Features](introduction/our-features.md)
 
 ## Product Guides
 
