@@ -20,14 +20,14 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="prompts/getting-set-up/" %}
+[getting-set-up](prompts/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="prompts/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](prompts/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="prompts/getting-set-up/inviting-members.md" %}
+[inviting-members.md](prompts/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
