@@ -5,15 +5,15 @@
 
 ## Introduction
 
-* [1⃣ ChatGPT](introduction/chatgpt.md)
-* [2⃣ Role of Copywriting](introduction/role.md)
-* [3⃣ Keywords related to copywriting](introduction/keywords.md)
-* [4⃣ Copywriting and content writing](introduction/copy-and-content.md)
-* [5⃣ Case Study](introduction/case-study/README.md)
+* [1 ChatGPT](introduction/chatgpt.md)
+* [2 Role of Copywriting](introduction/role.md)
+* [3 Keywords related to copywriting](introduction/keywords.md)
+* [4 Copywriting and content writing](introduction/copy-and-content.md)
+* [5 Case Study](introduction/case-study/README.md)
   * [🚀 Copywriting](introduction/case-study/copywriting/README.md)
     * [ℹ Description](introduction/case-study/copywriting/description.md)
   * [⚡ Content Writing](introduction/case-study/content-writing.md)
-* [6⃣ Exercise](exercise.md)
+* [6 Exercise](exercise.md)
 
 ## Prompts
 
