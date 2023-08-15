@@ -17,9 +17,9 @@
 
 ## Prompts
 
-* [🛠 ChatGPT Expert Prompts](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 ChatGPT Expert Prompts](prompts/expert-prompts/README.md)
+  * [📝 Setting permissions](prompts/expert-prompts/setting-permissions.md)
+  * [🧑 Inviting Members](prompts/expert-prompts/inviting-members.md)
 
 ## Product Guides
 

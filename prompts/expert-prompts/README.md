@@ -53,3 +53,5 @@ Overall, **ChatGPT Expert Prompts** help users have more controlled and producti
 
 
 </details>
+
+{% embed url="https://writesonic.com/blog/chatgpt-prompts/" %}
