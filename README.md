@@ -24,10 +24,10 @@ We've put together some helpful guides for you to get setup with our product qui
 [expert-prompts](prompts/expert-prompts/)
 {% endcontent-ref %}
 
-{% content-ref url="prompts/expert-prompts/setting-permissions.md" %}
-[setting-permissions.md](prompts/expert-prompts/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="prompts/expert-prompts/inviting-members.md" %}
-[inviting-members.md](prompts/expert-prompts/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
