@@ -1,4 +1,4 @@
-# Top 10 AIPRM Prompt Templates
+# AIPRM Prompt Templates
 
 AIPRM provides many ready-made ChatGPT prompt templates that you can use to make the ChatGPT conversations more interesting and efficient. And that will increase your productivity 100x at work.
 
@@ -6,96 +6,49 @@ AIPRM provides many ready-made ChatGPT prompt templates that you can use to make
 
 Here are the 10 best AIPRM prompt templates for ChatGPT that will boost your productivity instantly:
 
-
-
-( Note: To use the AIPRM Prompt Templates in ChatGPT, you need to install the Chrome extension "[AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)", visit our [guide ](https://www.upwithtech.com/post/boost-your-chatgpt-experience-with-the-aiprm-chrome-extension)to know more. )
-
-\
-
+{% hint style="info" %}
+**Note:** To use the AIPRM Prompt Templates in ChatGPT, you need to install the Chrome extension "[AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)".
+{% endhint %}
 
 #### 1 ) [Keyword Generator](https://app.aiprm.com/prompts/1782544363721854976/keyword-generator) <a href="#viewer-fn9b3" id="viewer-fn9b3"></a>
 
-\
-
-
 The first AIPRM prompt template that I recommend to you is Keyword Generator. Keyword Generator will help you to **generate a list of keywords in seconds** for your website or blog.
-
-\
-
 
 To use it, you just have to enter a specific keyword or title in the search bar of ChatGPT, and then Keyword Generator generates the bullet list of keywords and comma-separated keywords as well. Just copy and paste those keywords into your website or blog, they will help to increase the SEO and performance of the site.
 
-\
-
-
+{% hint style="info" %}
 [Try Keyword Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782544363721854976/keyword-generator/try) now and increase your chances to rank higher on the search engine!
-
-\
-![SEO ( Source: Unsplash )](https://static.wixstatic.com/media/nsplsh\_197bdb827dd74f9585db55f630f4925d\~mv2.jpg/v1/fill/w\_1480,h\_1110,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/nsplsh\_197bdb827dd74f9585db55f630f4925d\~mv2.jpg)SEO ( Source: Unsplash )\
-
+{% endhint %}
 
 #### 2 ) [Midjourney Prompt Generator](https://app.aiprm.com/prompts/1783928876351885312/midjourney-prompt-generator) <a href="#viewer-d5p3b" id="viewer-d5p3b"></a>
 
-\
-
-
-[Midjourney ](https://www.midjourney.com/)is a generative AI program and service that can help you to **generate unique images, artworks, graphics, and more** in just a second based on your prompt or query. According to your prompt, Midjourney generates the images, and artworks using AI algorithms, NLP, and ML models.
-
-\
-
-
-To get the accurate output from Midjourney, you have to enter the right prompt. Midjourney Prompt Generator of AIPRM will help you to generate these prompts.
-
-\
-
+[Midjourney ](https://www.midjourney.com/)is a generative AI program and service that can help you to **generate unique images, artworks, graphics, and more** in just a second based on your prompt or query. According to your prompt, Midjourney generates the images, and artworks using AI algorithms, NLP, and ML models. To get the accurate output from Midjourney, you have to enter the right prompt. Midjourney Prompt Generator of AIPRM will help you to generate these prompts.
 
 To use it, you just have to enter a specific keyword like "A girl dancing on the stage and the audience claps for it", Midjourney Prompt Generator generates multiple prompts for you, and then you can copy and paste them into the search bar of Midjourney AI tool, it will generate images where a girl dancing on the stage and peoples clap for it.
 
-\
-
-
+{% hint style="info" %}
 [Try Midjourney Prompt Generator as an AIPRM Prompt Template for ChatGPT ](https://app.aiprm.com/prompts/1783928876351885312/midjourney-prompt-generator/try)now, create amazing things, and take benefits of AI!
-
-\
-![Midjourney ( Source: Unsplash )](https://static.wixstatic.com/media/nsplsh\_767801f1bf2a45a6a1bf2bb593f64983\~mv2.jpg/v1/fill/w\_1480,h\_832,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/nsplsh\_767801f1bf2a45a6a1bf2bb593f64983\~mv2.jpg)Midjourney ( Source: Unsplash )\
-
+{% endhint %}
 
 #### 3 ) [Human Written | 100% Unique | SEO Optimized Article](https://app.aiprm.com/prompts/1784224785543462912/human-written-or100percent-unique-orseo-optimized-article) <a href="#viewer-d4m4f" id="viewer-d4m4f"></a>
 
-\
-
-
 This AIPRM prompt template can help you to **generate the human written, unique means plagiarism-free, SEO-optimized long-form article** with a proper article outline in just a few seconds.
-
-\
-
 
 To use it, you have to enter a keyword or title, that's it. Wait until it completes the generation of the article. It generates a well-structured and optimized article with proper headings and paragraphs. It saves you a lot of time, effort, increases SEO, and gets more traffic on your site.
 
-\
-
-
+{% hint style="info" %}
 [Try Human Written, 100% Unique, SEO Optimized Article Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1784224785543462912/human-written-or100percent-unique-orseo-optimized-article/try) now!
-
-\
-
+{% endhint %}
 
 #### 4 ) [Get Monthly Content Calendar in 1 Click](https://app.aiprm.com/prompts/1784450454512730112/get-monthly-content-calendar-in-1-click) <a href="#viewer-89gb6" id="viewer-89gb6"></a>
 
-\
-
-
 This AIPRM prompt template is very useful for content creators, or those who want to find better content ideas for their business. It can help you to get a well-organized 4-week / month content calendar based on the primary keyword you want to focus on in just one click.
-
-\
-
 
 To use it, you have to enter a primary keyword you want to create content. After that, it will generate content ideas based on the primary keyword with day, and proper blog post title.
 
-\
-
-
+{% hint style="info" %}
 [Try Monthly Content Calendar Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1784450454512730112/get-monthly-content-calendar-in-1-click/try) now, and get awesome content ideas!
+{% endhint %}
 
 \
 ![Content Creator ( Source: Unsplash )](https://static.wixstatic.com/media/11062b\_c8cee32c3c1249b4b044509a49569857\~mv2.jpg/v1/fill/w\_1480,h\_1056,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/11062b\_c8cee32c3c1249b4b044509a49569857\~mv2.jpg)Content Creator ( Source: Unsplash )\
@@ -103,96 +56,40 @@ To use it, you have to enter a primary keyword you want to create content. After
 
 #### 5 ) [YouTube Script Creator](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator) <a href="#viewer-aq3q7" id="viewer-aq3q7"></a>
 
-\
-
-
 This AIPRM prompt template is specially made for YouTubers and content creators. Writing or creating a script for a YouTube video consumes a lot of time and effort. But now that problem is solved!
-
-\
-
 
 YouTube Script Creator can help you to **create engaging YouTube scripts in just a few seconds**. For that, you have to enter a short description or title of your YouTube video, and then it will start to generate a detailed script for you.
 
-\
-
-
 [Try YouTube Script Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator/try) now, and get awesome YouTube Script ideas!
-
-\
-![Beauty youtubers ( Media from Wix )](https://static.wixstatic.com/media/11062b\_3ebcc9c0c66f4e57a6982bb1a42325a8\~mv2.jpeg/v1/fill/w\_1480,h\_986,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/11062b\_3ebcc9c0c66f4e57a6982bb1a42325a8\~mv2.jpeg)Beauty youtubers ( Media from Wix )\
-
 
 #### 6 ) [E-commerce SEO: Generate Enticing Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions) <a href="#viewer-c9v6c" id="viewer-c9v6c"></a>
 
-\
-
-
 If you running an online e-commerce business, then this AIPRM prompt template will help you a lot. It can help you to **generate SEO-optimized product descriptions for e-commerce sites in a few seconds.**
 
-\
+It can improve your site visibility, increase conversion rates on your site, and enhance SEO. For that, you have to enter a product name, and then it generates rich and meaningful product descriptions with clickbait headings, SEO-optimized keywords, meta titles, and meta descriptions. This will make your online e-commerce business journey easy and efficient.&#x20;
 
-
-It can improve your site visibility, increase conversion rates on your site, and enhance SEO. For that, you have to enter a product name, and then it generates rich and meaningful product descriptions with clickbait headings, SEO-optimized keywords, meta titles, and meta descriptions.
-
-\
-
-
-This will make your online e-commerce business journey easy and efficient. [Try the E-commerce Product Description Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions/try) now, and grow your online business!
-
-\
-![Online shopping ( Media from Wix )](https://static.wixstatic.com/media/11062b\_72f98e922c44425ea32ff861c6fc577e\~mv2.jpeg/v1/fill/w\_1480,h\_988,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/11062b\_72f98e922c44425ea32ff861c6fc577e\~mv2.jpeg)Online shopping ( Media from Wix )\
-
+[Try the E-commerce Product Description Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions/try) now, and grow your online business!
 
 #### 7 ) [SILO Structure](https://app.aiprm.com/prompts/1783094852561670144/silo-structure) <a href="#viewer-7cheb" id="viewer-7cheb"></a>
 
-\
-
-
 SILO structure is a method to **create and design the structure of the website** such as the structure of web pages ( Home, About, Contact, etc. ), menus and submenus, categories, etc. A better SILO structure improves the SEO of the site.
-
-\
-
 
 AIPRM provides SILO structure creator as a prompt template that you can use to create SILO structure for your website using keywords. You have to enter a keyword such as "E-commerce website" or "Blog", and then it starts to generate the SILO structure of your site.
 
-\
-
-
 [Try the SILO Structure Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1783094852561670144/silo-structure/try) now, improve SEO, and increase your chances to rank!
-
-\
-
 
 #### 8 ) [Code Generator](https://app.aiprm.com/prompts/1788878358659198976/code-generator) <a href="#viewer-e63m3" id="viewer-e63m3"></a>
 
-\
-
-
 The code generator ( CODAI ) helps you to **generate the code snippets and answers in a few seconds**. It can generate code in multiple languages such as HTML CSS, JavaScipt, Python, etc.
 
-\
-
-
-To use that, you have to enter your query or question in the search bar such as "Generate HTML, CSS, and JavaScript code for a basic website", and then it will start generating the code. Same as you can do it for other languages.
-
-\
+To use that, you have to enter your query or question in the search bar such as "Generate HTML, CSS, and JavaScript code for a basic website", and then it will start generating the code. Same as you can do it for other languages.\
 
 
 [Try the Code Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1788878358659198976/code-generator/try) now, and improve your coding skill!
 
-\
-![Coding ( Media from Wix )](https://static.wixstatic.com/media/a3ac449c86364dd8999922949876d09e.jpg/v1/fill/w\_1480,h\_988,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/a3ac449c86364dd8999922949876d09e.jpg)Coding ( Media from Wix )\
-
-
 #### 9 ) [Create a Pro Email Newsletter](https://app.aiprm.com/prompts/1793746320780169216/create-a-pro-email-newsletter) <a href="#viewer-afn10" id="viewer-afn10"></a>
 
-\
-
-
 Every website, blog, or social media company needs to send an email newsletter every week or month to engage its users. Creating a beautiful, attractive, and engaging email newsletter requires time and effort.
-
-\
-
 
 To make this thing easy, AIPRM provides an email newsletter creator that can help you to **create an engaging newsletter** with every important little thing such as title, subtitle, paragraphs, resources, call-to-action, and more. For that, enter a newsletter name with a few keywords, and then it will create a whole email newsletter in seconds for you.
 
@@ -201,23 +98,11 @@ To make this thing easy, AIPRM provides an email newsletter creator that can hel
 
 [Try the Email Newsletter Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1793746320780169216/create-a-pro-email-newsletter/try) now, and engage your audience!
 
-\
-
-
 #### 10 ) [One-Click Course Creator](https://app.aiprm.com/prompts/1786373398000300032/one-click-course-creator) <a href="#viewer-18bea" id="viewer-18bea"></a>
-
-\
-
 
 Course creators can help you create all the necessary things required to **make a unique, structured, and well-organized course.** AIPRM prompt template for course creators helps you to do this thing easily and efficiently. It saves you a lot of time and effort.
 
-\
-
-
 It will generate the course outline, objectives, lesson plans, activities, real-world examples, exercises, project plans, resources, and many more. Just enter the title of the course, such as "Web Development", and then it will create the best course structure.
-
-\
-
 
 [Try the Course Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1786373398000300032/one-click-course-creator/try) now, and give a better learning experience to students and learners!
 
@@ -241,9 +126,6 @@ Here are some AIPRM Prompt Templates for Beauty businesses and services:
 
 #### Q2. What Are the AIPRM Prompts for Graphic Design Services? <a href="#viewer-85bul" id="viewer-85bul"></a>
 
-\
-
-
 Here are some AIPRM Prompt Templates for Graphic Design services:
 
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
@@ -252,9 +134,6 @@ Here are some AIPRM Prompt Templates for Graphic Design services:
 4. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
 
 #### Q3. What Are the AIPRM Prompts for Generative AI? <a href="#viewer-7ijrg" id="viewer-7ijrg"></a>
-
-\
-
 
 Here are some AIPRM Prompt Templates for Generative AI:
 
@@ -265,9 +144,6 @@ Here are some AIPRM Prompt Templates for Generative AI:
 5. [Make AI Images with Leonardo AI 2.0](https://www.aiprm.com/prompts/generative/stable-diffusion/1826203933207695360/)
 
 #### Q4. What Are the AIPRM Prompts for Copywriting? <a href="#viewer-crhv3" id="viewer-crhv3"></a>
-
-\
-
 
 Here are some AIPRM Prompt Templates for Copywriting:
 
@@ -283,9 +159,6 @@ Here are some AIPRM Prompt Templates for Copywriting:
 10. [Best Translator - Translate Any Language](https://www.aiprm.com/prompts/copywriting/improve/1793453622009520128/)
 
 #### Q5. What Are the AIPRM Prompts for Web Design? <a href="#viewer-bkva9" id="viewer-bkva9"></a>
-
-\
-
 
 Here are some AIPRM Prompt Templates for Web Design:
 
