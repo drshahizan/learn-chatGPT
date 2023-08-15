@@ -6,36 +6,31 @@
 Chrome web store
 {% endembed %}
 
+{% embed url="https://www.aiprm.com/" %}
+Official Website
+{% endembed %}
 
+AIPRM is a prompt management tool and community-driven prompt library. Use it to complete marketing, sales, operation, productivity, and customer support tasks in minutes that used to take hours with ready-to-use prompts for ChatGPT, Bard, Midjourney, and DALL-E 2. AIPRM adds a list of curated prompt templates for SEO, SaaS and more to ChatGPT.&#x20;
 
-AIPRM adds a list of curated prompt templates for SEO, SaaS and more to ChatGPT. Try today.
+AIPRM for ChatGPT is a Chrome extension that adds a list of curated prompt templates to ChatGPT. These templates can be used for a variety of tasks, such as keyword research, article rewriting, image prompts, and more. AIPRM also allows users to create their own prompt templates, which can be shared with the rest of the community.
 
-```
-UPDATE: fixes a new layout problem broken by OpenAI update on August 3
+The benefits of using AIPRM for ChatGPT:
 
-Are you looking for a quick and easy way to improve your website's search engine optimization? Your Marketing? Your Sales and Support?
+* Save time: AIPRM can help you save time by providing you with a list of pre-generated prompt templates. This can be especially helpful if you are not familiar with ChatGPT or if you are looking for a quick and easy way to get started.
+* Improve your results: AIPRM can help you improve your results by providing you with templates that have been optimized for specific tasks. This can help you to generate more relevant and engaging content.
+* Get inspiration: AIPRM can help you get inspiration for your content by providing you with a variety of prompt templates to choose from. This can be helpful if you are stuck on a creative block.
 
-Look no further than the popular
-AIPRM browser extension
-with over 1,700,000 users.
+If you are looking for a way to save time, improve your results, and get inspiration for your content, then AIPRM for ChatGPT is a great option.
 
-The long-awaited release with many free features, but also many new premium features like “Favorites”, “Hidden”, your own Custom Lists, Custom Writing Tones, Custom Writing Styles, (Custom) Power Continue actions.
+Additional details about AIPRM for ChatGPT:
 
-Now with Multiple Variables in the Prompt, support for everyone, also free users, as well as the long-awaited LIVE CRAWLING feature and the CLONE Private Prompt feature.
-
-This extension requires an AIPRM Account.
-
-Changelog:
-https://forum.aiprm.com/c/company-information/changelog/10
-
-Tutorial how Account creation works:
-https://forum.aiprm.com/t/how-to-link-your-openai-to-aiprm-account/3390
-
-Please note: it is AIPRM, not AIRPRM or AIRPM as some people type in.
-
-Join the new vibrant Prompt Engineering Community at https://forum.aiprm.com/
-
-Please note: AIPRM doesn’t support or endorse using other ChatGPT extensions in parallel to AIPRM. Please uninstall all those other extensions.
-```
+* It is a free Chrome extension.
+* It is compatible with all versions of ChatGPT.
+* It is easy to use. Simply install the extension and then click on the AIPRM button in the ChatGPT toolbar.
+* It offers a variety of features, including:
+  * A list of curated prompt templates
+  * The ability to create your own prompt templates
+  * The ability to share your prompt templates with others
+  * The ability to rate and review prompt templates
 
 {% embed url="https://youtu.be/woV4zJUobcc" %}
