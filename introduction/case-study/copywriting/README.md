@@ -1,7 +1,3 @@
----
-description: My Bola
----
-
 # 🚀 Copywriting
 
 {% hint style="info" %}

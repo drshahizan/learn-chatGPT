@@ -13,6 +13,10 @@
     * [ℹ Description](introduction/case-study/copywriting/description.md)
   * [⚡ Content Writing](introduction/case-study/content-writing.md)
 
+***
+
+* [5⃣ Exercise](exercise.md)
+
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
