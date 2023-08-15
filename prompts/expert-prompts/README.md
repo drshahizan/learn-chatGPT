@@ -31,3 +31,5 @@ Overall, **ChatGPT Expert Prompts** help users have more controlled and producti
 {% embed url="https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733" %}
 
 {% embed url="https://juliandigitaledge.notion.site/100-2023-AI-Tools-4dd3b650eb2644e18fdaf25bd82299b8" %}
+
+{% embed url="https://app.gumroad.com/d/e70663a7b0c57e4b827cf9dcfd131b72" %}
