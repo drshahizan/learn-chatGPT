@@ -6,6 +6,7 @@
 ## Introduction
 
 * [💡 Role of Copywriting](introduction/role-of-copywriting.md)
+* [Case study](introduction/case-study.md)
 * [✨ Copywriting and content writing](introduction/copywriting-and-content-writing.md)
 
 ## Product Guides
