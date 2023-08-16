@@ -27,3 +27,6 @@ Cheer alongside a vibrant **community** that bleeds the same colors as you. Feel
 ### Ready to be part of something **extraordinary**?&#x20;
 
 Join **"My Bola"** in Johor Bahru today and be part of a legacy that's built on **dedication**, **camaraderie**, and the sheer love for **football**. Let's make every match day a celebration, and every moment **unforgettable**. Your journey starts here – let's kick off greatness together!
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
