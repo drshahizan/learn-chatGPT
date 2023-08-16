@@ -166,3 +166,6 @@ Yes, the AIPRM Chrome extension offers customizable settings for ChatGPT users t
 
 To download and install the AIPRM Chrome extension for ChatGPT, go to the Chrome web store and search for "AIPRM for ChatGPT", that's it. Download, integrate it with ChatGPT, and improve your productivity.
 </details>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
