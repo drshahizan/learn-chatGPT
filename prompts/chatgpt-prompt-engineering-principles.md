@@ -20,7 +20,7 @@ The first and primary principle in the universe of Prompt Engineering is **CLARI
 * _**Clear Requirements**_
 * _**Clear Goals**_
 
-The three Cs pretty much sum up the principle. In **prompt engineering**, there is no space for ambiguity. It is essential to provide clear instructions and guidance to the language model to ensure it understands the user’s intent accurately along with also providing what it is exactly that you seek for in the answer particularly. Ambiguity in prompts can lead to misinterpretations and produce suboptimal responses.&#x20;
+The three Cs pretty much sum up the principle. In **prompt engineering**, there is no space for ambiguity. It is essential to provide clear instructions and guidance to the language model to ensure it understands the user’s intent accurately along with also providing what it is exactly that you seek for in the answer particularly. Ambiguity in prompts can lead to misinterpretations and produce suboptimal responses.
 
 Clear prompts help the model in understanding the goal of the question, as well as the final result or expectation from it. Now let us take a look at an example to understand **how a clear prompt can be used to generate a clear prompt**.
 
@@ -36,11 +36,11 @@ Below is a clear illustration of how one can frame a prompt with all the necessa
 
 <figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230710131208/PRINCIPLE-2--SPECIFICITY.webp" alt="" width="563"><figcaption></figcaption></figure>
 
-The above prompt focuses more on the factors that are really important. The word 5 emphasizes that we need the most important 5 reasons only. Followed by that is the exact point that the model should be talking about.&#x20;
+The above prompt focuses more on the factors that are really important. The word 5 emphasizes that we need the most important 5 reasons only. Followed by that is the exact point that the model should be talking about.
 
 #### **3. Providing/Elaborating Context**
 
-As much as the topic, the clarity, and the specificity of a prompt are important, the context is equally as important. The context may not be visibility affecting the output, but, understanding it more deeply, affects the way in which the content is written and the need for it to begin with. Context information helps the language model to generate responses that have a more meaningful thought to it. It could simply be a letter, but it makes a huge difference if it is mentioned to be an **informal letter or a formal letter**, this tiny context word means the world in the situation.&#x20;
+As much as the topic, the clarity, and the specificity of a prompt are important, the context is equally as important. The context may not be visibility affecting the output, but, understanding it more deeply, affects the way in which the content is written and the need for it to begin with. Context information helps the language model to generate responses that have a more meaningful thought to it. It could simply be a letter, but it makes a huge difference if it is mentioned to be an **informal letter or a formal letter**, this tiny context word means the world in the situation.
 
 Following is an example of how context can help in getting a better response.
 
@@ -66,7 +66,7 @@ Following is an example of how the phrase can be used:
 
 ![PRINCIPLE-4- I want you to be](https://media.geeksforgeeks.org/wp-content/uploads/20230710131210/PRINCIPLE-4---I-WANT-YOU-TO-BE.webp)
 
-The example clearly uses the phrase right in the beginning making it clear that the task needs to be done in a particular way.&#x20;
+The example clearly uses the phrase right in the beginning making it clear that the task needs to be done in a particular way.
 
 #### **5. Consistency/Continous Learning**
 
@@ -102,7 +102,6 @@ As the field of prompt engineering continues to advance, it is crucial to explor
 
 **Answer:**
 
-> The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.&#x20;
+> The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
