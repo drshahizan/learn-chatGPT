@@ -46,4 +46,5 @@ As "My Bola" continues to flourish, its aspirations remain steadfast. The club e
 
 In the tapestry of Johor Bahru's sporting landscape, **"My Bola"** shines as a vivid thread that weaves together passion, unity, and a shared love for football. The club's journey is a testament to the power of sports to foster connections, inspire excellence, and reflect the heart and soul of a city. As "My Bola" continues to etch its mark on the field, it stands as an embodiment of the values that make football not just a game, but a way of life.
 
-***
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
