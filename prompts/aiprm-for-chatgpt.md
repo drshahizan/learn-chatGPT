@@ -107,7 +107,7 @@ Navigating through your favorite chat interfaces, such as the OpenAI Playground,
 
 ### Frequently Asked Questions ( FAQs ) <a href="#viewer-60u9u" id="viewer-60u9u"></a>
 
-Here are some frequently asked questions related to the AIPRM Chrome extension from users:
+Frequently asked questions related to the AIPRM Chrome extension from users:
 
 #### Q.1 What Is the AIPRM Chrome Extension?
 
