@@ -51,3 +51,6 @@ Effective copywriting isn't confined to a single platform. It thrives across var
 Investing in quality copywriting isn't just about immediate gains; it's an investment in your brand's long-term success. Well-crafted copy establishes your brand's **voice** and **personality**, building brand recognition and loyalty over time. It also contributes to your brand's authority and credibility in your industry.
 
 In conclusion, **copywriting** is the linchpin that connects your brand's vision with your audience's desires. It's the bridge that transforms information into inspiration and curiosity into conversion. By embracing the strategic nuances of copywriting and integrating it across various platforms, you can cultivate a brand identity that resonates deeply, drives engagement, and propels your business towards enduring success.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
