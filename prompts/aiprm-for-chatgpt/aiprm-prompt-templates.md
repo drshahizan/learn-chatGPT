@@ -56,23 +56,31 @@ This AIPRM prompt template is specially made for YouTubers and content creators.
 
 YouTube Script Creator can help you to **create engaging YouTube scripts in just a few seconds**. For that, you have to enter a short description or title of your YouTube video, and then it will start to generate a detailed script for you.
 
-[Try YouTube Script Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator/try) now, and get awesome YouTube Script ideas!
+{% hint style="info" %}
+&#x20;[Try YouTube Script Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator/try) now, and get awesome YouTube Script ideas!
+{% endhint %}
 
 #### 6 ) [E-commerce SEO: Generate Enticing Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions) <a href="#viewer-c9v6c" id="viewer-c9v6c"></a>
 
 If you running an online e-commerce business, then this AIPRM prompt template will help you a lot. It can help you to **generate SEO-optimized product descriptions for e-commerce sites in a few seconds.**
 
-It can improve your site visibility, increase conversion rates on your site, and enhance SEO. For that, you have to enter a product name, and then it generates rich and meaningful product descriptions with clickbait headings, SEO-optimized keywords, meta titles, and meta descriptions. This will make your online e-commerce business journey easy and efficient.&#x20;
+It can improve your site visibility, increase conversion rates on your site, and enhance SEO. For that, you have to enter a product name, and then it generates rich and meaningful product descriptions with clickbait headings, SEO-optimized keywords, meta titles, and meta descriptions. This will make your online e-commerce business journey easy and efficient.
 
+
+
+{% hint style="info" %}
 [Try the E-commerce Product Description Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions/try) now, and grow your online business!
+{% endhint %}
 
-#### 7 ) [SILO Structure](https://app.aiprm.com/prompts/1783094852561670144/silo-structure) <a href="#viewer-7cheb" id="viewer-7cheb"></a>
+#### 7 ) [SILO Structure](https://app.aiprm.com/prompts/1783094852561670144/silo-structure)
 
 SILO structure is a method to **create and design the structure of the website** such as the structure of web pages ( Home, About, Contact, etc. ), menus and submenus, categories, etc. A better SILO structure improves the SEO of the site.
 
 AIPRM provides SILO structure creator as a prompt template that you can use to create SILO structure for your website using keywords. You have to enter a keyword such as "E-commerce website" or "Blog", and then it starts to generate the SILO structure of your site.
 
+{% hint style="info" %}
 [Try the SILO Structure Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1783094852561670144/silo-structure/try) now, improve SEO, and increase your chances to rank!
+{% endhint %}
 
 #### 8 ) [Code Generator](https://app.aiprm.com/prompts/1788878358659198976/code-generator) <a href="#viewer-e63m3" id="viewer-e63m3"></a>
 
@@ -80,7 +88,11 @@ The code generator ( CODAI ) helps you to **generate the code snippets and answe
 
 To use that, you have to enter your query or question in the search bar such as "Generate HTML, CSS, and JavaScript code for a basic website", and then it will start generating the code. Same as you can do it for other languages.
 
+
+
+{% hint style="info" %}
 [Try the Code Generator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1788878358659198976/code-generator/try) now, and improve your coding skill!
+{% endhint %}
 
 #### 9 ) [Create a Pro Email Newsletter](https://app.aiprm.com/prompts/1793746320780169216/create-a-pro-email-newsletter) <a href="#viewer-afn10" id="viewer-afn10"></a>
 
