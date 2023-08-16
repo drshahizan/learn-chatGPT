@@ -45,3 +45,6 @@ While the potential of **ChatGPT** is immense, it's important to acknowledge the
 As **AI technology** continues to evolve, so does the potential of **ChatGPT**. **OpenAI**'s commitment to refining the model, enhancing its capabilities, and addressing ethical concerns paves the way for a future where **ChatGPT** plays an even more significant role in shaping **human-computer interaction**.
 
 In conclusion, **ChatGPT** stands as a groundbreaking innovation in the realm of **conversational AI**. Its ability to engage in **natural language conversations** with remarkable coherence and relevance opens up a world of possibilities across various industries. From **customer support** to **education**, **content generation** to **healthcare**, **ChatGPT**'s impact is undeniable. As the technology advances and ethical considerations are carefully navigated, we can expect **ChatGPT** to continue revolutionizing the way we interact with machines and the potential it holds is truly awe-inspiring.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
