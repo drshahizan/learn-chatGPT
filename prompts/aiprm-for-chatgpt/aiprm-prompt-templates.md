@@ -145,19 +145,8 @@ Most frequently asked questions about AIPRM prompts:
 5. [Make AI Images with Leonardo AI 2.0](https://www.aiprm.com/prompts/generative/stable-diffusion/1826203933207695360/)
 </details>
 
-#### Q3. What Are the AIPRM Prompts for Generative AI? <a href="#viewer-7ijrg" id="viewer-7ijrg"></a>
-
-Here are some AIPRM Prompt Templates for Generative AI:
-
-1. [Midjourney Prompt Generator](https://www.aiprm.com/prompts/generative/midjourney/1783928876351885312/)
-2. [Stable Diffusion Prompt Generator](https://www.aiprm.com/prompts/generative/stable-diffusion/1785519285175848960/)
-3. [Create an Image with ChatGPT](https://www.aiprm.com/prompts/generative/midjourney/1794690749615566848/)
-4. [AI Image Prompt Generator](https://www.aiprm.com/prompts/generative/stable-diffusion/1812088835618897920/)
-5. [Make AI Images with Leonardo AI 2.0](https://www.aiprm.com/prompts/generative/stable-diffusion/1826203933207695360/)
-
-#### Q4. What Are the AIPRM Prompts for Copywriting? <a href="#viewer-crhv3" id="viewer-crhv3"></a>
-
-Here are some AIPRM Prompt Templates for Copywriting:
+<details>
+<summary>Q4. What Are the AIPRM Prompts for Copywriting?</summary>
 
 1. [Yoast SEO Optimized Content Writer](https://www.aiprm.com/prompts/copywriting/writing/1785987336174305280/)
 2. [Write Best Article to Rank on Google](https://www.aiprm.com/prompts/copywriting/writing/1784184571873726464/)
@@ -169,35 +158,28 @@ Here are some AIPRM Prompt Templates for Copywriting:
 8. [Captions - Hashtags - Tags Generator](https://www.aiprm.com/prompts/copywriting/call-to-action/1782916390777524224/)
 9. [Catchy SEO Descriptions](https://www.aiprm.com/prompts/copywriting/accounting/1847942704014315520/)
 10. [Best Translator - Translate Any Language](https://www.aiprm.com/prompts/copywriting/improve/1793453622009520128/)
+</details>
 
-#### Q5. What Are the AIPRM Prompts for Web Design? <a href="#viewer-bkva9" id="viewer-bkva9"></a>
-
-Here are some AIPRM Prompt Templates for Web Design:
-
+<details>
+<summary>Q5. What Are the AIPRM Prompts for Web Design?</summary>
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
 2. [The Ultimate UX Case Study Creator](https://www.aiprm.com/prompts/applications/design/1793229671232696320/)
 3. [Website Color Palettes Generator from Topic](https://www.aiprm.com/prompts/unsure/design/1791939495030161408/)
 4. [Design System Components Documentation](https://www.aiprm.com/prompts/unsure/design/1793246836560228352/)
 5. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
+</details>
 
-#### Q6. What Are the AIPRM Prompts for Email Templates? <a href="#viewer-dosj3" id="viewer-dosj3"></a>
-
-\
-
-
-Here are some AIPRM Prompt Templates for Email Templates:
+<details>
+<summary>Q6. What Are the AIPRM Prompts for Email Templates?</summary>
 
 1. [Proven Email Templates: Boost Your Sales Now](https://www.aiprm.com/prompts/copywriting/marketing/1784253913449623552/)
 2. [Easy Email Template for External Link-Building Approach](https://www.aiprm.com/prompts/seo/link-building/1789289010255093760/)
 3. [Invoice Email Template](https://www.aiprm.com/prompts/copywriting/improve/1800441565416787968/)
+</details>
 
-#### Q7. What Are the AIPRM Prompts for Email Personalization? <a href="#viewer-6k1ug" id="viewer-6k1ug"></a>
-
-\
-
-
-Here are some AIPRM Prompt Templates for Email Personalization:
-
+<details>
+<summary>Q7. What Are the AIPRM Prompts for Email Personalization?</summary>
+  
 1. [Best Email Corrector for Professionals](https://www.aiprm.com/prompts/productivity/plan/1788626052948692992/)
 2. [Crushing Email Personalization for Cold Contact](https://www.aiprm.com/prompts/copywriting/outreach/1800109336450822144/)
 3. [Get Eye-Catching Emails for Promoting Any Thing](https://www.aiprm.com/prompts/copywriting/marketing/1787309748325179392/)
@@ -208,14 +190,10 @@ Here are some AIPRM Prompt Templates for Email Personalization:
 8. [Eye-Catching Product Pitch for Email and Social Media Campaigns](https://www.aiprm.com/prompts/seo/outreach/1784611819508457472/)
 9. [Email Response Bot](https://www.aiprm.com/prompts/productivity/respond/1797272989834936320/)
 10. [Email Subject Lines Creator](https://www.aiprm.com/prompts/copywriting/subject-lines/1804986828785442816/)
+</details>
 
-#### Q8. What Are the AIPRM Prompts for Website and Optimization? <a href="#viewer-d8qhi" id="viewer-d8qhi"></a>
-
-\
-
-
-Here are some AIPRM Prompt Templates for Website and Optimization:
-
+<details>
+<summary>Q8. What Are the AIPRM Prompts for Website and Optimization?</summary>
 1. [Analyze the Website Summerize](https://www.aiprm.com/prompts/productivity/summarize/1785892679553650688/)
 2. [Website SILO Structure Generator](https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/)
 3. [Analyze the Website URL and Report All the Key Points Concisely](https://www.aiprm.com/prompts/productivity/summarize/1788022581530726400/)
@@ -226,22 +204,13 @@ Here are some AIPRM Prompt Templates for Website and Optimization:
 8. [Human Written | 100% Unique | SEO Optimized Article](https://www.aiprm.com/prompts/seo/writing/1833156383404064768/)
 9. [Website SEO Keyword Strategy](https://app.aiprm.com/prompts/1000102)
 10. [Keyword Generator](https://app.aiprm.com/prompts/1782544363721854976)
-
-#### Q9. Is AIPRM Free and Safe to Use? <a href="#viewer-1alev" id="viewer-1alev"></a>
-
-\
+</details>
 
 
+<details>
+<summary>Q9. Is AIPRM Free and Safe to Use?</summary>
+  
 Yes, AIPRM Chrome Extensions is free to use and access all the prompt templates through ChatGPT. It is completely safe and secure to use for your daily tasks.
+</details>
 
-\
-
-
-#### Q10. Where I Can Learn More About AIPRM Chrome Extension? <a href="#viewer-bl3mc" id="viewer-bl3mc"></a>
-
-\
-
-
-We have made a detailed guide on AIPRM Chrome Extension where you can know more about it. [Click here ](https://www.upwithtech.com/post/boost-your-chatgpt-experience-with-the-aiprm-chrome-extension)to check it out!
-
-\
+<details>
