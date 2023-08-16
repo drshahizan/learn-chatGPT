@@ -162,6 +162,7 @@ Most frequently asked questions about AIPRM prompts:
 
 <details>
 <summary>Q5. What Are the AIPRM Prompts for Web Design?</summary>
+  
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
 2. [The Ultimate UX Case Study Creator](https://www.aiprm.com/prompts/applications/design/1793229671232696320/)
 3. [Website Color Palettes Generator from Topic](https://www.aiprm.com/prompts/unsure/design/1791939495030161408/)
@@ -194,6 +195,7 @@ Most frequently asked questions about AIPRM prompts:
 
 <details>
 <summary>Q8. What Are the AIPRM Prompts for Website and Optimization?</summary>
+  
 1. [Analyze the Website Summerize](https://www.aiprm.com/prompts/productivity/summarize/1785892679553650688/)
 2. [Website SILO Structure Generator](https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/)
 3. [Analyze the Website URL and Report All the Key Points Concisely](https://www.aiprm.com/prompts/productivity/summarize/1788022581530726400/)
@@ -212,5 +214,3 @@ Most frequently asked questions about AIPRM prompts:
   
 Yes, AIPRM Chrome Extensions is free to use and access all the prompt templates through ChatGPT. It is completely safe and secure to use for your daily tasks.
 </details>
-
-<details>
