@@ -127,16 +127,14 @@ Most frequently asked questions about AIPRM prompts:
 
 </details>
 
-#### Q1. What Are the AIPRM Prompts for Beauty Services? <a href="#viewer-4v4i8" id="viewer-4v4i8"></a>
+<summary>Q2. What Are the AIPRM Prompts for Graphic Design Services?</summary>
 
-Here are some AIPRM Prompt Templates for Beauty businesses and services:
+1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
+2. [Create a Logo in 1 Min](https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/)
+3. [Creative Logo Design](https://www.aiprm.com/prompts/copywriting/accounting/1847373598286422016/)
+4. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
 
-1. [Craft And Sell Your Organic Beauty Products](https://www.aiprm.com/prompts/marketing/products/1785249149705523200/)
-2. [Target audiences with Products](https://www.aiprm.com/prompts/marketing/products/1900102/)
-3. [Write a Pitch with the "PPPP" Method](https://www.aiprm.com/prompts/marketing/products/1796086374173237248/)
-4. [Perfect Product Reviews](https://www.aiprm.com/prompts/marketing/products/1802050170440122368/)
-5. [Customer Journey Creator](https://app.aiprm.com/prompts/1786675501948203008)
-6. [E-Commerce SEO: Generate Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136)
+</details>
 
 #### Q2. What Are the AIPRM Prompts for Graphic Design Services? <a href="#viewer-85bul" id="viewer-85bul"></a>
 
