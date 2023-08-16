@@ -35,3 +35,6 @@ Copywriting narrates compelling stories that connect with the audience. Sharing 
 When launching a new program, copywriting designs landing pages that highlight its value. A landing page for a youth development initiative might feature copy like: "Nurture the Next Generation of Football Stars – Enroll in My Bola's Youth Academy."
 
 In essence, copywriting for "My Bola" not only communicates information but also evokes emotions, resonates with the audience, and prompts action. It transforms mundane messages into powerful narratives that drive engagement, build loyalty, and contribute to the overall success of the club's marketing efforts.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
