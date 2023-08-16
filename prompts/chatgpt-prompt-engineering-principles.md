@@ -104,5 +104,5 @@ As the field of prompt engineering continues to advance, it is crucial to explor
 
 > The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.&#x20;
 
-\
-Last Updated : 14 Jul, 2023
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
