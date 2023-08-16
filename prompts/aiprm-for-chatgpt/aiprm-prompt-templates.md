@@ -127,6 +127,7 @@ Most frequently asked questions about AIPRM prompts:
 
 </details>
 
+<details>
 <summary>Q2. What Are the AIPRM Prompts for Graphic Design Services?</summary>
 
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
