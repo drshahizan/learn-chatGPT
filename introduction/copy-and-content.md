@@ -75,3 +75,6 @@ FitLife's holistic marketing approach integrates both **copywriting** and **cont
 The FitLife case study exemplifies the symbiotic relationship between **copywriting** and **content writing** in digital marketing. Each serves a unique purpose, with **copywriting** driving immediate actions and **content writing** nurturing relationships. A balanced approach that strategically combines both elements leads to a comprehensive marketing strategy that captivates, informs, and converts.
 
 If you want to read more information about how to boost traffic on your website, just visit [**The Insider's Views**](https://www.theinsidersviews.com/search/label/SEO).
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
