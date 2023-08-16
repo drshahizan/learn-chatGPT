@@ -124,7 +124,6 @@ Most frequently asked questions about AIPRM prompts:
 4. [Perfect Product Reviews](https://www.aiprm.com/prompts/marketing/products/1802050170440122368/)
 5. [Customer Journey Creator](https://app.aiprm.com/prompts/1786675501948203008)
 6. [E-Commerce SEO: Generate Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136)
-
 </details>
 
 <details>
@@ -134,17 +133,17 @@ Most frequently asked questions about AIPRM prompts:
 2. [Create a Logo in 1 Min](https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/)
 3. [Creative Logo Design](https://www.aiprm.com/prompts/copywriting/accounting/1847373598286422016/)
 4. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
-
 </details>
 
-#### Q2. What Are the AIPRM Prompts for Graphic Design Services? <a href="#viewer-85bul" id="viewer-85bul"></a>
+<details>
+<summary>Q3. What Are the AIPRM Prompts for Generative AI?</summary>
 
-Here are some AIPRM Prompt Templates for Graphic Design services:
-
-1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
-2. [Create a Logo in 1 Min](https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/)
-3. [Creative Logo Design](https://www.aiprm.com/prompts/copywriting/accounting/1847373598286422016/)
-4. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
+1. [Midjourney Prompt Generator](https://www.aiprm.com/prompts/generative/midjourney/1783928876351885312/)
+2. [Stable Diffusion Prompt Generator](https://www.aiprm.com/prompts/generative/stable-diffusion/1785519285175848960/)
+3. [Create an Image with ChatGPT](https://www.aiprm.com/prompts/generative/midjourney/1794690749615566848/)
+4. [AI Image Prompt Generator](https://www.aiprm.com/prompts/generative/stable-diffusion/1812088835618897920/)
+5. [Make AI Images with Leonardo AI 2.0](https://www.aiprm.com/prompts/generative/stable-diffusion/1826203933207695360/)
+</details>
 
 #### Q3. What Are the AIPRM Prompts for Generative AI? <a href="#viewer-7ijrg" id="viewer-7ijrg"></a>
 
