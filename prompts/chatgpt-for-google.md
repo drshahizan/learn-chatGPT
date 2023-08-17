@@ -8,6 +8,8 @@ The response from ChatGPT will be displayed alongside the normal search engine r
 
 The ChatGPT for Google extension is still under development, but it has the potential to be a powerful tool for research and learning. It can be used to get answers to your questions, generate creative content, and translate languages.
 
+{% embed url="https://www.youtube.com/watch?v=2yB3G0_S9NI" %}
+
 ### Features:
 
 * Supports all popular search engines
