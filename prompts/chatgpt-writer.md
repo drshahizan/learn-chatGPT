@@ -20,7 +20,28 @@ You can write commands in any language. Command examples:
 * Écrivez une réponse disant que je suis intéressé par cette opportunité d'emploi
 * Escriba una respuesta diciendo que estoy interesado/a en esta oportunidad laboral
 
-\
+### Frequently Asked Questions ( FAQs ) <a href="#viewer-1vq5t" id="viewer-1vq5t"></a>
 
+<details>
 
-\
+<summary>Which all languages does it support?</summary>
+
+All popular languages. Just mention the language in the text prompt. For example: "Write an email in German language about internship opportunity."
+
+</details>
+
+<details>
+
+<summary>Which data is shared with the AI model?</summary>
+
+When writing a new email, the data sent is the user prompt. When replying to an email, the data sent is the previous email text content (which can be edited to remove sensitive information) and the user prompt.
+
+</details>
+
+<details>
+
+<summary>What is your privacy policy?</summary>
+
+Your emails or any other messages are not saved on our servers. Context of email or message is solely used for the purpose of generating the response and nothing else. Furthermore, we value your privacy and refrain from using any third-party cookies, trackers, etc.
+
+</details>
