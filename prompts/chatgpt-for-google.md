@@ -2,9 +2,11 @@
 
 {% embed url="https://chatgpt4google.com/" %}
 
-Display ChatGPT response alongside search engine results This is an extension that shows responses from ChatGPT alongside Google, Bing, DuckDuckGo and other search engines.
+Display ChatGPT response alongside search engine results This is an extension that shows responses from ChatGPT alongside Google, Bing, DuckDuckGo and other search engines. When you install the ChatGPT for Google extension, it will add a new button to your Chrome toolbar. When you click on this button, a ChatGPT window will pop up. You can then type in your question or query, and ChatGPT will generate a response.
 
-You can also start a chat with ChatGPT immediately after getting an answer.
+The response from ChatGPT will be displayed alongside the normal search engine results. This allows you to compare the response from ChatGPT to the results from other search engines.
+
+The ChatGPT for Google extension is still under development, but it has the potential to be a powerful tool for research and learning. It can be used to get answers to your questions, generate creative content, and translate languages.
 
 ### Features:
 
