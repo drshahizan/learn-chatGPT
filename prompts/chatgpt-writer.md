@@ -45,3 +45,5 @@ When writing a new email, the data sent is the user prompt. When replying to an 
 Your emails or any other messages are not saved on our servers. Context of email or message is solely used for the purpose of generating the response and nothing else. Furthermore, we value your privacy and refrain from using any third-party cookies, trackers, etc.
 
 </details>
+
+{% embed url="https://youtu.be/BPa5wJvFxOo?si=GVl4TyTnmRZN8ANW" %}
