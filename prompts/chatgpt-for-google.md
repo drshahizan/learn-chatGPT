@@ -1,5 +1,7 @@
 # ChatGPT for Google
 
+{% embed url="https://chatgpt4google.com/" %}
+
 Display ChatGPT response alongside search engine results This is an extension that shows responses from ChatGPT alongside Google, Bing, DuckDuckGo and other search engines.
 
 You can also start a chat with ChatGPT immediately after getting an answer.
@@ -59,3 +61,5 @@ Currently, ChatGPT for Google supports Google, Bing, DuckDuckGo and more search 
 Yes, you need to have a ChatGPT account to use this extension. You can create an account for free at chat.openai.com.
 
 </details>
+
+{% embed url="https://www.youtube.com/watch?t=9s&v=jhjNmqXSRYI" %}
