@@ -86,17 +86,47 @@ As the field of prompt engineering continues to advance, it is crucial to explor
 
 ### **FAQs on Prompt Engineering Principles**
 
+
+
+<details>
+
+<summary>What is the process of prompt engineering?</summary>
+
+Prompt Engineering is the process of creating, clear, concise, and easily understandable prompts that help the machine or the AI model being used to generate or predict anything work to its best functionality.
+
+</details>
+
 #### **Q1. What is the process of prompt engineering?**
 
 **Answer:**
 
 > Prompt Engineering is the process of creating, clear, concise, and easily understandable prompts that help the machine or the AI model being used to generate or predict anything work to its best functionality.
 
+####
+
+<details>
+
+<summary>What are the three types of prompt engineering?</summary>
+
+Three types of prompt engineering are template-based, task-oriented, and lastly conversational prompts. All of these are possible in ChatGPT and can easily be done using the above-mentioned ChatGpt Prompt Engineering Principles.
+
+</details>
+
 #### **Q2. What are the three types of prompt engineering?**
 
 **Answer:**
 
 > Three types of prompt engineering are template-based, task-oriented, and lastly conversational prompts. All of these are possible in ChatGPT and can easily be done using the above-mentioned ChatGpt Prompt Engineering Principles.
+
+
+
+<details>
+
+<summary>What is the future of prompt engineering?</summary>
+
+The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.
+
+</details>
 
 #### **Q3. What is the future of prompt engineering?**
 
