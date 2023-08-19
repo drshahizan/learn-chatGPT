@@ -1,6 +1,6 @@
 # 3⃣ Call to Action (CTA)
 
-<figure><img src="https://anincubator.com/wp-content/uploads/2022/08/que-son-Los-call-to-action-y-para-que-sirven-Portada.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://anincubator.com/wp-content/uploads/2022/08/que-son-Los-call-to-action-y-para-que-sirven-Portada.png" alt=""></figure>
 
 A **Call to Action (CTA)** is a crucial component in **copywriting** that serves as the final push to encourage your audience to take a specific desired **action**. It's a clear and actionable statement that directs readers or viewers toward the next steps you want them to follow. Whether you're aiming to make a sale, gather leads, drive website visits, or engage in any other **action**, a well-crafted CTA can significantly impact the effectiveness of your message. Here's how to create effective CTAs:
 
@@ -62,7 +62,7 @@ In the following section, you’ll see what the techniques mentioned above look 
 
 This ad from ClickUp is likely part of a [retargeting campaign](https://adespresso.com/blog/facebook-ad-retargeting-strategies-need-try/). Even if you don’t watch the video, the ad copy offers plenty of calls to action on its own.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image16.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image16.png" alt="" width="375"></figure>
 
 **Why it works**
 
@@ -74,7 +74,7 @@ This ad from ClickUp is likely part of a [retargeting campaign](https://adespres
 
 Can you spot all the call to actions in this Facebook ad? Hint: there are at least seven. Every element is coordinated here to instill a sense of urgency in the audience. Take note of the exploding colors, the alarm emoji, the many exclamation marks, and the multiple CTAs.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image20.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image20.jpg" alt="" width="375"></figure>
 
 **Why it works**
 
@@ -86,7 +86,7 @@ Can you spot all the call to actions in this Facebook ad? Hint: there are at lea
 
 Babbel is a language learning app that comes at you strong with various CTAs for their Facebook offer. It works because even if you don’t know this app, it quickly establishes a [trust factor](https://adespresso.com/blog/how-to-create-social-proof/) (“over 500,000 5-star reviews”). The post then draws you in with an attractive offer.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image13.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image13.jpg" alt="" width="375"></figure>
 
 **Why it works**
 
@@ -98,7 +98,7 @@ Babbel is a language learning app that comes at you strong with various CTAs for
 
 Hootsuite keeps it brief and concise with a few very targeted CTAs.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image3.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image3.jpg" alt="" width="375"></figure>
 
 **Why it works**
 
@@ -109,7 +109,7 @@ Hootsuite keeps it brief and concise with a few very targeted CTAs.
 
 Headspace’s Instagram ad is the perfect example of a custom-made call to action. “Snuggle up to Headspace” evokes a cozy feeling in users and personalizes the brand. Words like “snuggle” fit into the category of [sensory words](https://smartblogger.com/sensory-words/).
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image17.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image17.jpg" alt="" width="188"></figure>
 
 **Why it works**
 
@@ -121,7 +121,7 @@ Headspace’s Instagram ad is the perfect example of a custom-made call to actio
 
 As an event-type ad, Elementor gets it right. It displays all the key information regarding the event (name, speakers, date, and time).
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image22.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image22.jpg" alt="" width="188"></figure>
 
 **Why it works:**
 
@@ -133,7 +133,7 @@ As an event-type ad, Elementor gets it right. It displays all the key informatio
 
 You have probably seen call to action examples like this in the [advertising strategy](https://adespresso.com/blog/ecommerce-advertising-guide-build-campaign/) of ecommerce brands. The main goal is to sell. At the same time, the ad focuses on the experience instead of rushing to take the user to a web page. In this case, “Shop Now” is the type of CTA that is direct, yet, the ad copy does most of the selling.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image21.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image21.jpg" alt="" width="188"></figure>
 
 **Why it works**
 
@@ -144,7 +144,7 @@ You have probably seen call to action examples like this in the [advertising str
 
 Esther Inman’s VAI Course ad keeps it fresh with the colors and a simple call to action button.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image5.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image5.jpg" alt="" width="188"></figure>
 
 **Why it works**
 
@@ -155,7 +155,7 @@ Esther Inman’s VAI Course ad keeps it fresh with the colors and a simple call 
 
 Design agency, Black Illustrations prefers to use multiple CTAs in their email marketing. You can run your own test on this strategy, but it makes sense to include a few secondary call to action buttons if you have a relatively long email. Black Illustrations also adds a hyperlinked CTA to further help guide users to take action.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image18.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image18.jpg" alt="" width="563"></figure>
 
 **Why it works:**
 
@@ -167,7 +167,7 @@ Design agency, Black Illustrations prefers to use multiple CTAs in their email m
 
 The audience analysis tool, Audiense, prefers the long CTA route in their email marketing. Phrases like “show me…” or “take me to…” create a clear value proposition and helps the user feel in control.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image4.jpg" alt="" width="375"></figure>
 
 **Why it works:**
 
@@ -183,7 +183,7 @@ Landing pages are great subjects to run a CTA test or two on. Below are some gre
 
 Tim Ferriss’s email sign-up landing page is as minimalistic as it gets. No top menu, no links, or other distracting web components.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image23.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image23.jpg" alt="" width="563"></figure>
 
 [Source](https://go.tim.blog/5-bullet-friday-1/)
 
@@ -197,7 +197,7 @@ Tim Ferriss’s email sign-up landing page is as minimalistic as it gets. No top
 
 Joy is a Canadian company that offers a razor subscription service for women. Their landing page is concise and fits all information to the visible area. The CTA button stands out as it’s the darkest element on the page.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image19.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image19.jpg" alt="" width="563"></figure>
 
 [Source](https://joyshave.ca/en-ca/get-joy/)
 
@@ -211,7 +211,7 @@ Joy is a Canadian company that offers a razor subscription service for women. Th
 
 Leadfeeder’s own lead-generation landing page is simple with a clear value proposition. On the left, you get a summary of the ebook. On the right, you will need to provide some basic info and then click “Get the Guide” to submit your request.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image9.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image9.jpg" alt="" width="563"></figure>
 
 [Source](https://get.leadfeeder.com/account-based-retargeting-linkedin-guide/)
 
@@ -224,7 +224,7 @@ Leadfeeder’s own lead-generation landing page is simple with a clear value pro
 
 Touchland is here to sanitize your hands without making a mess. The “checklist” on the left (keys, wallet, phone, touchland) is cheeky. It’s a clever [storytelling technique](https://adespresso.com/blog/copywriting-tool-wheel-of-copy/) to place visitors into a familiar scenario while introducing the product.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image6.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image6.jpg" alt="" width="563"></figure>
 
 [Source](https://touchland.com/)
 
@@ -237,7 +237,7 @@ Touchland is here to sanitize your hands without making a mess. The “checklist
 
 With COVID-19 restrictions coming and going, travel sites like Airbnb have to develop ways to stay top of mind. They achieve this by featuring a wishlist of _outdoor_ spaces and a dreamy illustration on their website.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image14.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image14.jpg" alt="" width="563"></figure>
 
 [Source](https://www.airbnb.com/)
 
@@ -250,7 +250,7 @@ With COVID-19 restrictions coming and going, travel sites like Airbnb have to de
 
 Smartlook is a user behavior analysis tool. They closely follow website best practices by placing a “hero” section above the fold (tagline+description+CTA). The main goal of the site is to prompt visitors to sign up for a free trial.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image11.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image11.jpg" alt="" width="563"></figure>
 
 [Source](https://www.smartlook.com/)
 
@@ -264,7 +264,7 @@ Smartlook is a user behavior analysis tool. They closely follow website best pra
 
 Ecom World is the website for “The World’s Largest Ecommerce Event.” They placed all of the most important info above the fold: what+when+where+the CTA.
 
-<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image12.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://adespresso.com/wp-content/uploads/2021/05/image12.jpg" alt="" width="563"></figure>
 
 [Source](https://ecomworldconference.com/)
 

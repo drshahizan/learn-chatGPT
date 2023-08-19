@@ -24,7 +24,7 @@ The three Cs pretty much sum up the principle. In **prompt engineering**, there 
 
 Clear prompts help the model in understanding the goal of the question, as well as the final result or expectation from it. Now let us take a look at an example to understand **how a clear prompt can be used to generate a clear prompt**.
 
-<figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230710131208/Principle-1---Clarity.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230710131208/Principle-1---Clarity.webp" alt="" width="563"></figure>
 
 The above-shown example depicts how the prompt provides everything clearly using the principle correctly. There is no space for ambiguity or assumptions and the user defines how and what it is exactly that they are expecting.
 
@@ -34,7 +34,7 @@ The second principle stresses the **specificity and conciseness** in a prompt an
 
 Below is a clear illustration of how one can frame a prompt with all the necessary requirements in a **concise and specific manner**.
 
-<figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230710131208/PRINCIPLE-2--SPECIFICITY.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230710131208/PRINCIPLE-2--SPECIFICITY.webp" alt="" width="563"></figure>
 
 The above prompt focuses more on the factors that are really important. The word 5 emphasizes that we need the most important 5 reasons only. Followed by that is the exact point that the model should be talking about.
 

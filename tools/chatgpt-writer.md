@@ -11,7 +11,7 @@ Enter your command in the ChatGPT Writer command input field to generate the res
 * write an email about any open position in marketing team
 * write email about salary negotiation
 
-<figure><img src="https://chatgptwriter.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fenter_command.cc368f2a.jpg&#x26;w=1920&#x26;q=75" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://chatgptwriter.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fenter_command.cc368f2a.jpg&#x26;w=1920&#x26;q=75" alt="" width="563"></figure>
 
 ### Write command in any language 🇵🇹🇫🇷🇪🇸🇰🇷🇨🇳🇷🇺🇩🇪🌎
 

@@ -2,7 +2,7 @@
 
 In **ChatGPT**, a **prompt** is a text input that you provide to instruct the model and guide its response. It's the initial information or question you give to the AI to generate relevant content. The **prompt** serves as the starting point for the AI to understand what you're looking for and to generate a coherent response based on the provided input. It's crucial to make your **prompts** clear, specific, and well-structured to ensure that you receive accurate and meaningful answers from the AI model.
 
-<figure><img src="https://xenstar.xyz/wp-content/uploads/2023/03/chatgpt-2048x1145.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://xenstar.xyz/wp-content/uploads/2023/03/chatgpt-2048x1145.png" alt=""></figure>
 
 Writing good prompts is crucial when using ChatGPT to ensure clear and accurate responses. **Effective prompts** are designed to guide the AI model and generate the desired content. Here's how to write good prompts:
 
@@ -27,7 +27,7 @@ By following these guidelines and including relevant **bold keywords**, you can 
 
 Formulating prompts or inquiries akin to natural speech is an effective strategy. However, if a specific goal is in mind, opting for more extensive prompts with detailed instructions proves more advantageous than employing concise, generic ones.
 
-<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/ChatGPT-prompt-formula-1000x600.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/ChatGPT-prompt-formula-1000x600.png" alt=""></figure>
 
 The technique for creating prompts employs the subsequent formula:
 
@@ -45,7 +45,7 @@ This is where the "**context, task, instruction, clarify, refine**" technique be
 
 **Context, Task, Instruction, Clarify and Refine** are the order in which you should write your ChatGPT prompts for the best outcome.
 
-<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-11.png" alt="ChatGPT Screenshot: Ignore the previous prompts in this conversation. You are an experienced content writer with high levels of expertise and authority within the tech industry. Your job is to write content that will be published online on websites, social media, email newsletters and in advertisements. Your writing style is informative, friendly and engaging while incorporating humour and real-life examples. I will provide you with a topic or series of topics and you will come up with an engaging article outline for this topic. Do you understand?" height="244" width="1156"><figcaption></figcaption></figure>
+<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-11.png" alt="ChatGPT Screenshot: Ignore the previous prompts in this conversation. You are an experienced content writer with high levels of expertise and authority within the tech industry. Your job is to write content that will be published online on websites, social media, email newsletters and in advertisements. Your writing style is informative, friendly and engaging while incorporating humour and real-life examples. I will provide you with a topic or series of topics and you will come up with an engaging article outline for this topic. Do you understand?" height="244" width="1156"></figure>
 
 #### Prompt Part 1: Context
 
@@ -135,7 +135,7 @@ This part is quite simple, simply ask ChatGPT whether it understands the context
 > **Do you understand?**
 
 <figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-37.png" alt="You are an experienced content writer with high levels of expertise and authority within the General Tech industry. Your job is to write content that will be published online on websites, social media, email newsletters and in advertisements. [Your writing style is friendly, conversational using informal grammar and non-standard English - as if you&#x27;re talking to a friend, while incorporating rhetorical questions, storytelling, metaphors and analogies.] I will provide you with a topic or series of topics and you will come up with an engaging and educational copy for this topic.Do you understand?
-I understand that you are looking for an experienced content writer with expertise and authority in the General Tech industry, and that I will be writing content for online publications, social media, email newsletters, and advertisements. I also understand that my writing style should be friendly, conversational, and use informal grammar and non-standard English, as if I&#x27;m talking to a friend, while incorporating rhetorical questions, storytelling, metaphors, and analogies. You will provide me with a topic or series of topics and I will come up with engaging and educational copy for this topic. Is there anything else you would like me to know?" height="529" width="770"><figcaption></figcaption></figure>
+I understand that you are looking for an experienced content writer with expertise and authority in the General Tech industry, and that I will be writing content for online publications, social media, email newsletters, and advertisements. I also understand that my writing style should be friendly, conversational, and use informal grammar and non-standard English, as if I&#x27;m talking to a friend, while incorporating rhetorical questions, storytelling, metaphors, and analogies. You will provide me with a topic or series of topics and I will come up with engaging and educational copy for this topic. Is there anything else you would like me to know?" height="529" width="770"></figure>
 
 #### Prompt Part 5: Refine
 
@@ -153,7 +153,7 @@ ChatGPT will answer confidently. **It’s not always correct**.
 
 You seriously need to fact-check almost anything that’s been generated.
 
-<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-38-1024x959.png" alt="How many letters in the word innacurate?The word &#x22;innaccurate&#x22; has 9 letters.Are you sure?I apologize for any confusion, the word &#x22;inaccurate&#x22; actually has 10 letters. My previous answer was incorrect.Is 10 definitely correct this time?Yes, I am certain that the word &#x22;inaccurate&#x22; has 10 letters. I apologize for any confusion caused by my previous mistake.Really now?I apologize, I made a mistake again, the correct number of letters in the word &#x22;inaccurate&#x22; is actually 11 letters. I apologize for any confusion caused by my previous errors." height="959" width="1024"><figcaption></figcaption></figure>
+<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-38-1024x959.png" alt="How many letters in the word innacurate?The word &#x22;innaccurate&#x22; has 9 letters.Are you sure?I apologize for any confusion, the word &#x22;inaccurate&#x22; actually has 10 letters. My previous answer was incorrect.Is 10 definitely correct this time?Yes, I am certain that the word &#x22;inaccurate&#x22; has 10 letters. I apologize for any confusion caused by my previous mistake.Really now?I apologize, I made a mistake again, the correct number of letters in the word &#x22;inaccurate&#x22; is actually 11 letters. I apologize for any confusion caused by my previous errors." height="959" width="1024"></figure>
 
 **See also:** [**Can you use ChatGPT to solve Wordle?**](https://sarahtamsin.com/can-you-solve-wordle-using-chatgpt/)
 
@@ -161,7 +161,7 @@ You seriously need to fact-check almost anything that’s been generated.
 
 Here’s a finished prompt using the Context, Task, Instruction, Clarify & Refine technique:
 
-<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-40.png" alt="You are an experienced content writer with high levels of expertise and authority within the General Tech industry. Your job is to write content that will be published online on websites, social media, email newsletters and in advertisements. [Your writing style is friendly, conversational using informal grammar and non-standard English - as if you&#x27;re talking to a friend, while incorporating rhetorical questions, storytelling, metaphors and analogies.] I will provide you with a topic or series of topics and you will come up with an engaging and educational copy for this topic.Do you understand?" height="255" width="987"><figcaption></figcaption></figure>
+<figure><img src="https://sarahtamsin.com/wp-content/uploads/2023/01/image-40.png" alt="You are an experienced content writer with high levels of expertise and authority within the General Tech industry. Your job is to write content that will be published online on websites, social media, email newsletters and in advertisements. [Your writing style is friendly, conversational using informal grammar and non-standard English - as if you&#x27;re talking to a friend, while incorporating rhetorical questions, storytelling, metaphors and analogies.] I will provide you with a topic or series of topics and you will come up with an engaging and educational copy for this topic.Do you understand?" height="255" width="987"></figure>
 
 > _**You are an experienced content writer with high levels of expertise and authority within the tech industry. You have exceptional vocabulary and you are able to explain complex topics to beginners with ease. Your task is to write content that will be published online on websites, social media, email newsletters and in advertisements. Your writing style is informative, friendly and engaging while incorporating humor and real-life examples. The response should be approximately 100 words long and written in a snappy and punchy style, using short sentences and non-standard, conversational grammar. I want you to write in the same way you would write to a friend. Do you understand?”**_
 

@@ -2,7 +2,7 @@
 
 AIPRM provides many ready-made ChatGPT prompt templates that you can use to make the ChatGPT conversations more interesting and efficient. And that will increase your productivity 100x at work.
 
-<figure><img src="https://i0.wp.com/mazlanabbas.com/wp-content/uploads/2023/05/Screenshot-2023-05-04-at-3.41.11-PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://i0.wp.com/mazlanabbas.com/wp-content/uploads/2023/05/Screenshot-2023-05-04-at-3.41.11-PM.png" alt="" width="563"></figure>
 
 ### Top 10 AIPRM Prompt Templates for ChatGPT <a href="#viewer-80vcu" id="viewer-80vcu"></a>
 
