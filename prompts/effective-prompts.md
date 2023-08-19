@@ -1,4 +1,4 @@
-# Effective prompts
+# 1⃣ Effective prompts
 
 In **ChatGPT**, a **prompt** is a text input that you provide to instruct the model and guide its response. It's the initial information or question you give to the AI to generate relevant content. The **prompt** serves as the starting point for the AI to understand what you're looking for and to generate a coherent response based on the provided input. It's crucial to make your **prompts** clear, specific, and well-structured to ensure that you receive accurate and meaningful answers from the AI model.
 
