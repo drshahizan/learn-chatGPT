@@ -38,4 +38,4 @@
 * [2⃣ Structuring your copy](effective-copywriting/structuring-your-copy/README.md)
   * [Organizing your copy](effective-copywriting/structuring-your-copy/organizing-your-copy.md)
   * [Using the AIDA](effective-copywriting/structuring-your-copy/using-the-aida.md)
-* [Call to Action (CTA)](effective-copywriting/call-to-action-cta.md)
+* [3⃣ Call to Action (CTA)](effective-copywriting/call-to-action-cta.md)

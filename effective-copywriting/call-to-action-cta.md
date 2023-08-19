@@ -1,6 +1,6 @@
-# Call to Action (CTA)
+# 3⃣ Call to Action (CTA)
 
-Absolutely, here's the information with the keywords bolded:
+<figure><img src="https://anincubator.com/wp-content/uploads/2022/08/que-son-Los-call-to-action-y-para-que-sirven-Portada.png" alt=""><figcaption></figcaption></figure>
 
 A **Call to Action (CTA)** is a crucial component in **copywriting** that serves as the final push to encourage your audience to take a specific desired **action**. It's a clear and actionable statement that directs readers or viewers toward the next steps you want them to follow. Whether you're aiming to make a sale, gather leads, drive website visits, or engage in any other **action**, a well-crafted CTA can significantly impact the effectiveness of your message. Here's how to create effective CTAs:
 
