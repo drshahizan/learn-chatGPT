@@ -27,6 +27,10 @@
   * [⚡ Content Writing](copywriting/case-study/content-writing.md)
 * [6⃣ Exercise](copywriting/exercise.md)
 
+***
+
+* [Effective Copywriting Techniques](effective-copywriting-techniques.md)
+
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
