@@ -22,7 +22,7 @@ Grabbing headlines and taglines are essential components of effective copywritin
 
 Grabbing headlines and taglines are integral to effective copywriting. A compelling headline instantly captures attention, while a well-crafted tagline communicates your brand's essence in a memorable and concise way. By using strategies like curiosity, emotional appeal, and clarity, you can create headlines and taglines that resonate with your audience and leave a lasting impact.
 
-#### Example
+### Example
 
 {% hint style="info" %}
 ChatGPT: Give 10 best prompts examples for Grabbing headlines and taglines. Case study about football club name "My Bola"

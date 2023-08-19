@@ -15,6 +15,10 @@ Crafting attention in effective copywriting involves creating a compelling, conc
 
 ### Example
 
+{% hint style="info" %}
+Give 10 best prompts examples for Crafting attention. case study about football club name "My Bola"
+{% endhint %}
+
 #### **"Redefining Success: The Inspirational Journey of 'My Bola' Football Club"**
 
 10 attention-grabbing prompts for a case study about the football club named "My Bola".

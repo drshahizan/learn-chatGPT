@@ -31,7 +31,8 @@
 
 * [Effective Copywriting Techniques](effective-copywriting-techniques/README.md)
   * [Crafting attention](effective-copywriting-techniques/crafting-attention.md)
-* [Grabbing headlines and taglines](grabbing-headlines-and-taglines.md)
+  * [Grabbing headlines and taglines](effective-copywriting-techniques/grabbing-headlines-and-taglines.md)
+  * [Mastering persuasive language and emotional appeal](effective-copywriting-techniques/mastering-persuasive-language-and-emotional-appeal.md)
 
 ## Product Guides
 
