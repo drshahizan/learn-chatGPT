@@ -36,3 +36,4 @@
   * [Grabbing headlines and taglines](effective-copywriting-techniques/grabbing-headlines-and-taglines.md)
   * [Mastering persuasive language and emotional appeal](effective-copywriting-techniques/mastering-persuasive-language-and-emotional-appeal.md)
 * [Structuring your copy](effective-copywriting/structuring-your-copy.md)
+* [Organizing your copy](effective-copywriting/organizing-your-copy.md)
