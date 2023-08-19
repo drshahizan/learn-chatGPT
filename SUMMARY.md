@@ -11,6 +11,7 @@
 
 ## Prompts
 
+* [Effective prompts](prompts/effective-prompts.md)
 * [1⃣ ChatGPT Expert Prompts](prompts/expert-prompts.md)
 * [2⃣ AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
 * [3⃣ ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
