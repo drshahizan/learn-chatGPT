@@ -37,3 +37,4 @@
   * [Mastering persuasive language and emotional appeal](effective-copywriting-techniques/mastering-persuasive-language-and-emotional-appeal.md)
 * [Structuring your copy](effective-copywriting/structuring-your-copy/README.md)
   * [Organizing your copy](effective-copywriting/structuring-your-copy/organizing-your-copy.md)
+  * [Using the AIDA](effective-copywriting/structuring-your-copy/using-the-aida.md)
