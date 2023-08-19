@@ -17,7 +17,7 @@
 * [AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
 * [ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
 
-## Copywriting
+## Introduction Copywriting
 
 * [ChatGPT](copywriting/chatgpt.md)
 * [Role of Copywriting](copywriting/role.md)
@@ -29,19 +29,10 @@
   * [⚡ Content Writing](copywriting/case-study/content-writing.md)
 * [Exercise](copywriting/exercise.md)
 
-***
-
+## Effective Copywriting
 * [Effective Copywriting Techniques](effective-copywriting-techniques/README.md)
   * [Crafting attention](effective-copywriting-techniques/crafting-attention.md)
   * [Grabbing headlines and taglines](effective-copywriting-techniques/grabbing-headlines-and-taglines.md)
   * [Mastering persuasive language and emotional appeal](effective-copywriting-techniques/mastering-persuasive-language-and-emotional-appeal.md)
 
-## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
