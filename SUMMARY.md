@@ -41,3 +41,4 @@
 * [Storytelling in Copywriting](effective-copywriting/storytelling-in-copywriting.md)
 * [SEO and Copywriting](effective-copywriting/seo-and-copywriting.md)
 * [Call to Action (CTA)](effective-copywriting/call-to-action-cta.md)
+* [Editing and Proofreading](effective-copywriting/editing-and-proofreading.md)
