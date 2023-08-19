@@ -38,5 +38,6 @@
 * [Structuring your copy](effective-copywriting/structuring-your-copy/README.md)
   * [Organizing your copy](effective-copywriting/structuring-your-copy/organizing-your-copy.md)
   * [Using the AIDA](effective-copywriting/structuring-your-copy/using-the-aida.md)
+* [Storytelling in Copywriting](effective-copywriting/storytelling-in-copywriting.md)
 * [SEO and Copywriting](effective-copywriting/seo-and-copywriting.md)
 * [Call to Action (CTA)](effective-copywriting/call-to-action-cta.md)
