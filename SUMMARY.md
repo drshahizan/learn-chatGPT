@@ -31,10 +31,10 @@
 
 ## Effective Copywriting
 
-* [Effective Copywriting Techniques](effective-copywriting-techniques/README.md)
+* [1⃣ Effective Copywriting Techniques](effective-copywriting-techniques/README.md)
   * [Crafting attention](effective-copywriting-techniques/crafting-attention.md)
   * [Grabbing headlines and taglines](effective-copywriting-techniques/grabbing-headlines-and-taglines.md)
   * [Mastering persuasive language and emotional appeal](effective-copywriting-techniques/mastering-persuasive-language-and-emotional-appeal.md)
-* [Structuring your copy](effective-copywriting/structuring-your-copy/README.md)
+* [2⃣ Structuring your copy](effective-copywriting/structuring-your-copy/README.md)
   * [Organizing your copy](effective-copywriting/structuring-your-copy/organizing-your-copy.md)
   * [Using the AIDA](effective-copywriting/structuring-your-copy/using-the-aida.md)

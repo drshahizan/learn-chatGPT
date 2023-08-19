@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://cdn4.vectorstock.com/i/1000x1000/18/98/aida-model-with-4-stages-sales-funnel-vector-29371898.jpg
+coverY: 32
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Using the AIDA
 
 The **AIDA model** is a fundamental framework used in marketing and advertising to guide the creation of persuasive and effective communication messages. It stands for **Attention, Interest, Desire, and Action**, representing the four stages that a consumer ideally goes through when engaging with a marketing message. The AIDA model helps marketers structure their content to engage the audience and lead them towards taking a desired **action**.&#x20;
