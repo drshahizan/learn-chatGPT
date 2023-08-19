@@ -29,7 +29,8 @@
 
 ***
 
-* [Effective Copywriting Techniques](effective-copywriting-techniques.md)
+* [Effective Copywriting Techniques](effective-copywriting-techniques/README.md)
+  * [Crafting attention](effective-copywriting-techniques/crafting-attention.md)
 
 ## Product Guides
 
