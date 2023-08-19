@@ -13,6 +13,8 @@ Here's a breakdown of each stage:
 
 <figure><img src="https://www.siegemedia.com/wp-content/uploads/2020/12/aida-model-email.png" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="https://www.emarketinghacks.com/wp-content/uploads/2020/04/AIDA-example.png" alt="" width="563"><figcaption></figcaption></figure>
+
 Here's an example of how the AIDA model can be applied to a digital marketing campaign for a new smartphone:
 
 **Attention:** "Introducing the Smartphone Revolution: Unleash Possibilities!"&#x20;
