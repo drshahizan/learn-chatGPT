@@ -20,6 +20,8 @@ Editing involves a comprehensive review of your content to improve its overall q
 4. **Paragraph Transitions:** Editors ensure seamless transitions between paragraphs and sections, maintaining a logical progression of ideas.
 5. **Content Relevance:** They verify that all information is relevant and directly contributes to the overall message, removing any tangential or extraneous details.
 
+<figure><img src="https://cdn.grammarcheck.net/infographic-essay-proofreading.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ### **The Role of Proofreading**
 
 Proofreading is the final meticulous review to catch any grammatical, spelling, punctuation, and formatting errors:
