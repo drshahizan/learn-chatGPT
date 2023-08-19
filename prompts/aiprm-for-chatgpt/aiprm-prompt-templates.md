@@ -1,10 +1,10 @@
-# AIPRM Prompt Templates
+# 3⃣ AIPRM Prompt Templates
 
 AIPRM provides many ready-made ChatGPT prompt templates that you can use to make the ChatGPT conversations more interesting and efficient. And that will increase your productivity 100x at work.
 
-### Top 10 AIPRM Prompt Templates for ChatGPT <a href="#viewer-80vcu" id="viewer-80vcu"></a>
+<figure><img src="https://i0.wp.com/mazlanabbas.com/wp-content/uploads/2023/05/Screenshot-2023-05-04-at-3.41.11-PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Here are the 10 best AIPRM prompt templates for ChatGPT that will boost your productivity instantly:
+### Top 10 AIPRM Prompt Templates for ChatGPT <a href="#viewer-80vcu" id="viewer-80vcu"></a>
 
 {% hint style="info" %}
 **Note:** To use the AIPRM Prompt Templates in ChatGPT, you need to install the Chrome extension "[AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)".
@@ -57,7 +57,7 @@ This AIPRM prompt template is specially made for YouTubers and content creators.
 YouTube Script Creator can help you to **create engaging YouTube scripts in just a few seconds**. For that, you have to enter a short description or title of your YouTube video, and then it will start to generate a detailed script for you.
 
 {% hint style="info" %}
-&#x20;[Try YouTube Script Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator/try)
+[Try YouTube Script Creator as an AIPRM Prompt Template for ChatGPT](https://app.aiprm.com/prompts/1782552828389359616/youtube-script-creator/try)
 {% endhint %}
 
 #### 6 ) [E-commerce SEO: Generate Enticing Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136/e-commerce-seo-generate-enticing-product-descriptions) <a href="#viewer-c9v6c" id="viewer-c9v6c"></a>
@@ -124,18 +124,22 @@ Most frequently asked questions about AIPRM prompts:
 4. [Perfect Product Reviews](https://www.aiprm.com/prompts/marketing/products/1802050170440122368/)
 5. [Customer Journey Creator](https://app.aiprm.com/prompts/1786675501948203008)
 6. [E-Commerce SEO: Generate Product Descriptions](https://app.aiprm.com/prompts/1783964797226971136)
+
 </details>
 
 <details>
+
 <summary>Q2. What Are the AIPRM Prompts for Graphic Design Services?</summary>
 
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
 2. [Create a Logo in 1 Min](https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/)
 3. [Creative Logo Design](https://www.aiprm.com/prompts/copywriting/accounting/1847373598286422016/)
 4. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
+
 </details>
 
 <details>
+
 <summary>Q3. What Are the AIPRM Prompts for Generative AI?</summary>
 
 1. [Midjourney Prompt Generator](https://www.aiprm.com/prompts/generative/midjourney/1783928876351885312/)
@@ -143,9 +147,11 @@ Most frequently asked questions about AIPRM prompts:
 3. [Create an Image with ChatGPT](https://www.aiprm.com/prompts/generative/midjourney/1794690749615566848/)
 4. [AI Image Prompt Generator](https://www.aiprm.com/prompts/generative/stable-diffusion/1812088835618897920/)
 5. [Make AI Images with Leonardo AI 2.0](https://www.aiprm.com/prompts/generative/stable-diffusion/1826203933207695360/)
+
 </details>
 
 <details>
+
 <summary>Q4. What Are the AIPRM Prompts for Copywriting?</summary>
 
 1. [Yoast SEO Optimized Content Writer](https://www.aiprm.com/prompts/copywriting/writing/1785987336174305280/)
@@ -158,29 +164,35 @@ Most frequently asked questions about AIPRM prompts:
 8. [Captions - Hashtags - Tags Generator](https://www.aiprm.com/prompts/copywriting/call-to-action/1782916390777524224/)
 9. [Catchy SEO Descriptions](https://www.aiprm.com/prompts/copywriting/accounting/1847942704014315520/)
 10. [Best Translator - Translate Any Language](https://www.aiprm.com/prompts/copywriting/improve/1793453622009520128/)
+
 </details>
 
 <details>
+
 <summary>Q5. What Are the AIPRM Prompts for Web Design?</summary>
-  
+
 1. [UX/UI Design Assistance and Idea Generator](https://www.aiprm.com/prompts/applications/design/1792794564965429248/)
 2. [The Ultimate UX Case Study Creator](https://www.aiprm.com/prompts/applications/design/1793229671232696320/)
 3. [Website Color Palettes Generator from Topic](https://www.aiprm.com/prompts/unsure/design/1791939495030161408/)
 4. [Design System Components Documentation](https://www.aiprm.com/prompts/unsure/design/1793246836560228352/)
 5. [Design Your Graphic Just Using Title](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)
+
 </details>
 
 <details>
+
 <summary>Q6. What Are the AIPRM Prompts for Email Templates?</summary>
 
 1. [Proven Email Templates: Boost Your Sales Now](https://www.aiprm.com/prompts/copywriting/marketing/1784253913449623552/)
 2. [Easy Email Template for External Link-Building Approach](https://www.aiprm.com/prompts/seo/link-building/1789289010255093760/)
 3. [Invoice Email Template](https://www.aiprm.com/prompts/copywriting/improve/1800441565416787968/)
+
 </details>
 
 <details>
+
 <summary>Q7. What Are the AIPRM Prompts for Email Personalization?</summary>
-  
+
 1. [Best Email Corrector for Professionals](https://www.aiprm.com/prompts/productivity/plan/1788626052948692992/)
 2. [Crushing Email Personalization for Cold Contact](https://www.aiprm.com/prompts/copywriting/outreach/1800109336450822144/)
 3. [Get Eye-Catching Emails for Promoting Any Thing](https://www.aiprm.com/prompts/copywriting/marketing/1787309748325179392/)
@@ -191,11 +203,13 @@ Most frequently asked questions about AIPRM prompts:
 8. [Eye-Catching Product Pitch for Email and Social Media Campaigns](https://www.aiprm.com/prompts/seo/outreach/1784611819508457472/)
 9. [Email Response Bot](https://www.aiprm.com/prompts/productivity/respond/1797272989834936320/)
 10. [Email Subject Lines Creator](https://www.aiprm.com/prompts/copywriting/subject-lines/1804986828785442816/)
+
 </details>
 
 <details>
+
 <summary>Q8. What Are the AIPRM Prompts for Website and Optimization?</summary>
-  
+
 1. [Analyze the Website Summerize](https://www.aiprm.com/prompts/productivity/summarize/1785892679553650688/)
 2. [Website SILO Structure Generator](https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/)
 3. [Analyze the Website URL and Report All the Key Points Concisely](https://www.aiprm.com/prompts/productivity/summarize/1788022581530726400/)
@@ -206,11 +220,13 @@ Most frequently asked questions about AIPRM prompts:
 8. [Human Written | 100% Unique | SEO Optimized Article](https://www.aiprm.com/prompts/seo/writing/1833156383404064768/)
 9. [Website SEO Keyword Strategy](https://app.aiprm.com/prompts/1000102)
 10. [Keyword Generator](https://app.aiprm.com/prompts/1782544363721854976)
+
 </details>
 
-
 <details>
+
 <summary>Q9. Is AIPRM Free and Safe to Use?</summary>
-  
+
 Yes, AIPRM Chrome Extensions is free to use and access all the prompt templates through ChatGPT. It is completely safe and secure to use for your daily tasks.
+
 </details>
