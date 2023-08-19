@@ -5,15 +5,15 @@
 
 ## Tools
 
-* [AIPRM for ChatGPT](prompts/aiprm-for-chatgpt.md)
-* [ChatGPT Writer](prompts/chatgpt-writer.md)
-* [ChatGPT for Google](prompts/chatgpt-for-google.md)
+* [1⃣ AIPRM for ChatGPT](prompts/aiprm-for-chatgpt.md)
+* [2⃣ ChatGPT Writer](prompts/chatgpt-writer.md)
+* [3⃣ ChatGPT for Google](prompts/chatgpt-for-google.md)
 
 ## Prompts
 
-* [🛠 ChatGPT Expert Prompts](prompts/expert-prompts.md)
-* [AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
-* [ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
+* [1⃣ ChatGPT Expert Prompts](prompts/expert-prompts.md)
+* [2⃣ AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
+* [3⃣ ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
 
 ## Introduction
 
