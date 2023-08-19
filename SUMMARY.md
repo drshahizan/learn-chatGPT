@@ -1,7 +1,6 @@
 # Table of contents
 
 * [👋 Copywriting with ChatGPT](README.md)
-* [Page](page.md)
 
 ## Tools
 
