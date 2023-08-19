@@ -28,7 +28,7 @@ Clear prompts help the model in understanding the goal of the question, as well 
 
 The above-shown example depicts how the prompt provides everything clearly using the principle correctly. There is no space for ambiguity or assumptions and the user defines how and what it is exactly that they are expecting.
 
-#### **2. Specificity/Conciseness**
+#### **2. Specificity/ Conciseness**
 
 The second principle stresses the **specificity and conciseness** in a prompt and how that can help a model in understanding **straightforward** the information the user is requesting for. We often confuse ourselves that telling too many facts and requirements can help us in getting a more relevant response sooner. Hence, we keep explaining the context in too much detail including a lot of unnecessary factors only confusing the model. This can result in vague responses or answers that focus too much on factors that were not actually so important.
 
@@ -68,7 +68,7 @@ Following is an example of how the phrase can be used:
 
 The example clearly uses the phrase right in the beginning making it clear that the task needs to be done in a particular way.
 
-#### **5. Consistency/Continous Learning**
+#### **5. Consistency/ Continous Learning**
 
 Maintaining consistency and enabling continuous learning are vital aspects of prompt engineering. Consistent prompts help establish a stable and reliable conversational experience. By providing consistent instructions, we can ensure that the model produces coherent responses that align with previous interactions. Additionally, continuous learning involves refining prompts based on user feedback and incorporating improvements into the prompt engineering process. This iterative approach allows for ongoing enhancement of the model’s performance over time. Consistent prompts establish a stable conversation flow, and continuous learning allows prompt refinement based on user feedback.
 
@@ -86,8 +86,6 @@ As the field of prompt engineering continues to advance, it is crucial to explor
 
 ### **FAQs on Prompt Engineering Principles**
 
-
-
 <details>
 
 <summary>What is the process of prompt engineering?</summary>
@@ -95,14 +93,6 @@ As the field of prompt engineering continues to advance, it is crucial to explor
 Prompt Engineering is the process of creating, clear, concise, and easily understandable prompts that help the machine or the AI model being used to generate or predict anything work to its best functionality.
 
 </details>
-
-#### **Q1. What is the process of prompt engineering?**
-
-**Answer:**
-
-> Prompt Engineering is the process of creating, clear, concise, and easily understandable prompts that help the machine or the AI model being used to generate or predict anything work to its best functionality.
-
-####
 
 <details>
 
@@ -112,14 +102,6 @@ Three types of prompt engineering are template-based, task-oriented, and lastly 
 
 </details>
 
-#### **Q2. What are the three types of prompt engineering?**
-
-**Answer:**
-
-> Three types of prompt engineering are template-based, task-oriented, and lastly conversational prompts. All of these are possible in ChatGPT and can easily be done using the above-mentioned ChatGpt Prompt Engineering Principles.
-
-
-
 <details>
 
 <summary>What is the future of prompt engineering?</summary>
@@ -127,11 +109,5 @@ Three types of prompt engineering are template-based, task-oriented, and lastly 
 The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.
 
 </details>
-
-#### **Q3. What is the future of prompt engineering?**
-
-**Answer:**
-
-> The future is bright for AI, Chatbots like ChatGPT, and hence the need for and importance of prompt engineering is only going to increase with every passing day.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
