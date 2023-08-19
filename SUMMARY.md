@@ -5,9 +5,9 @@
 
 ## Tools
 
-* [AIPRM for ChatGPT](prompts/aiprm-for-chatgpt.md)
-* [ChatGPT Writer](prompts/chatgpt-writer.md)
-* [ChatGPT for Google](prompts/chatgpt-for-google.md)
+* [AIPRM for ChatGPT](tools/aiprm-for-chatgpt.md)
+* [ChatGPT Writer](tools/chatgpt-writer.md)
+* [ChatGPT for Google](tools/chatgpt-for-google.md)
 * [Other AI copywriting tools](tools/other-ai-copywriting-tools.md)
 
 ## Prompts
