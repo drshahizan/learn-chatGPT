@@ -8,12 +8,12 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 
 ## Quick links
 
-{% content-ref url="introduction/role.md" %}
-[role.md](introduction/role.md)
+{% content-ref url="copywriting/role.md" %}
+[role.md](copywriting/role.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/copy-and-content.md" %}
-[copy-and-content.md](introduction/copy-and-content.md)
+{% content-ref url="copywriting/copy-and-content.md" %}
+[copy-and-content.md](copywriting/copy-and-content.md)
 {% endcontent-ref %}
 
 ## Get Started
@@ -24,13 +24,12 @@ We've put together some helpful guides for you to get setup with our product qui
 [expert-prompts.md](prompts/expert-prompts.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

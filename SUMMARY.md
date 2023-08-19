@@ -15,17 +15,17 @@
 * [2⃣ AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
 * [3⃣ ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
 
-## Introduction
+## Copywriting
 
-* [1⃣ ChatGPT](introduction/chatgpt.md)
-* [2⃣ Role of Copywriting](introduction/role.md)
-* [3⃣ Keywords related to copywriting](introduction/keywords.md)
-* [4⃣ Copywriting and content writing](introduction/copy-and-content.md)
-* [5⃣ Case Study](introduction/case-study/README.md)
-  * [🚀 Copywriting](introduction/case-study/copywriting/README.md)
-    * [ℹ Description](introduction/case-study/copywriting/description.md)
-  * [⚡ Content Writing](introduction/case-study/content-writing.md)
-* [6⃣ Exercise](exercise.md)
+* [1⃣ ChatGPT](copywriting/chatgpt.md)
+* [2⃣ Role of Copywriting](copywriting/role.md)
+* [3⃣ Keywords related to copywriting](copywriting/keywords.md)
+* [4⃣ Copywriting and content writing](copywriting/copy-and-content.md)
+* [5⃣ Case Study](copywriting/case-study/README.md)
+  * [🚀 Copywriting](copywriting/case-study/copywriting/README.md)
+    * [ℹ Description](copywriting/case-study/copywriting/description.md)
+  * [⚡ Content Writing](copywriting/case-study/content-writing.md)
+* [6⃣ Exercise](copywriting/exercise.md)
 
 ## Prompts
 

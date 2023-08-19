@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🛠 ChatGPT Expert Prompts
+# 1⃣ ChatGPT Expert Prompts
 
 "**ChatGPT Expert Prompts**" is a feature provided by **OpenAI** that allows users to input a **system message** or **prompt** at the beginning of a conversation with the **ChatGPT** language model. The purpose of this feature is to guide the AI's responses and behavior throughout the conversation. By providing **context**, **instructions**, or specific **cues** in the system message, users can influence the direction of the conversation and obtain more relevant and accurate responses from the AI.
 
@@ -34,5 +34,4 @@ Overall, **ChatGPT Expert Prompts** help users have more controlled and producti
 
 {% embed url="https://app.gumroad.com/d/e70663a7b0c57e4b827cf9dcfd131b72" %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
