@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://i0.wp.com/webeditings.com/wp-content/uploads/2022/04/Structure-Your-Copy-In-A-Powerful-Way.png
+coverY: 0
+---
+
 # Structuring your copy
 
 **Structuring your copy** effectively is a crucial aspect of **copywriting** that can greatly impact the success of your message. A well-structured copy engages your audience, conveys your message clearly, and encourages them to take the desired **action**. Here's a breakdown of how to **structure your copy**:
