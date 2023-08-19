@@ -28,6 +28,12 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 
 ## Quick links
 
+
+
+{% content-ref url="tools/aiprm-for-chatgpt.md" %}
+[aiprm-for-chatgpt.md](tools/aiprm-for-chatgpt.md)
+{% endcontent-ref %}
+
 {% content-ref url="copywriting/role.md" %}
 [role.md](copywriting/role.md)
 {% endcontent-ref %}
@@ -35,10 +41,6 @@ Welcome to the Copywriting Course! This comprehensive program is designed to equ
 {% content-ref url="copywriting/copy-and-content.md" %}
 [copy-and-content.md](copywriting/copy-and-content.md)
 {% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="prompts/expert-prompts.md" %}
 [expert-prompts.md](prompts/expert-prompts.md)
