@@ -14,8 +14,8 @@
 
 * [Effective prompts](prompts/effective-prompts.md)
 * [ChatGPT Expert Prompts](prompts/expert-prompts.md)
-* [3⃣ AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
-* [4⃣ ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
+* [AIPRM Prompt Templates](prompts/aiprm-for-chatgpt/aiprm-prompt-templates.md)
+* [ChatGPT Prompt Engineering Principles](prompts/chatgpt-prompt-engineering-principles.md)
 
 ## Introduction Copywriting
 
