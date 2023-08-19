@@ -1,6 +1,8 @@
-# ChatGPT
+# 1⃣ ChatGPT
 
 In today's fast-paced digital landscape, where technology continues to reshape the way we live and work, one of the most remarkable advancements is the development of **conversational artificial intelligence (AI)** systems. Among these, **ChatGPT** stands as a shining example of innovation that has captured the imagination of individuals, businesses, and researchers alike. In this comprehensive article, we delve deep into the intricacies of **ChatGPT**, its capabilities, applications, and the undeniable impact it has on various sectors.
+
+<figure><img src="https://cdn-infographic.pressidium.com/wp-content/uploads/2023/08/20-Ways-To-Use-Chat-GPT-In-The-Classroom.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **What is ChatGPT?**
 
@@ -12,7 +14,11 @@ At its core, **ChatGPT** is an advanced **language model** designed by **OpenAI*
 
 Fine-tuning, on the other hand, refines the model's abilities to make it more **contextually appropriate** and **controlled**. **OpenAI** uses a combination of **human feedback** and **reinforcement learning** to ensure that **ChatGPT** generates responses that align with user expectations and adhere to **ethical guidelines**.
 
+<figure><img src="https://i0.wp.com/fourweekmba.com/wp-content/uploads/2023/02/how-does-chat-gpt-work.png?resize=2048%2C1520&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
+
 ### **Applications Across Industries**
+
+<figure><img src="https://bluesyemre.files.wordpress.com/2019/08/infographic_wheel_v2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 The versatility of **ChatGPT** is reflected in its broad spectrum of applications across different industries:
 
@@ -46,5 +52,4 @@ As **AI technology** continues to evolve, so does the potential of **ChatGPT**. 
 
 In conclusion, **ChatGPT** stands as a groundbreaking innovation in the realm of **conversational AI**. Its ability to engage in **natural language conversations** with remarkable coherence and relevance opens up a world of possibilities across various industries. From **customer support** to **education**, **content generation** to **healthcare**, **ChatGPT**'s impact is undeniable. As the technology advances and ethical considerations are carefully navigated, we can expect **ChatGPT** to continue revolutionizing the way we interact with machines and the potential it holds is truly awe-inspiring.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
