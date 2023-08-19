@@ -15,3 +15,4 @@ Effective Copywriting Techniques involve a strategic approach to crafting writte
 
 In essence, effective copywriting is about understanding your audience, crafting attention-grabbing content, using persuasive language to create emotional connections, and guiding readers toward action. It's a skill that combines creativity, psychology, and strategic thinking to convey messages that inspire, engage, and drive results.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

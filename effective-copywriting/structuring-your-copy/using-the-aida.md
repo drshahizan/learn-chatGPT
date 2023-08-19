@@ -46,3 +46,5 @@ Here's an example of how the AIDA model can be applied to a digital marketing ca
 **Action:** "Upgrade to the future of smartphones now. Shop online or visit our stores!"
 
 The AIDA model is a versatile and effective tool that can be used across various marketing channels, including advertisements, email campaigns, sales presentations, and more. By guiding the audience through these four stages, the model helps marketers create messages that resonate with consumers and motivate them to take **action**, ultimately driving conversions and achieving marketing objectives.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

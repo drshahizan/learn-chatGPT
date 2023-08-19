@@ -51,3 +51,5 @@ In summary, mastering persuasive language and emotional appeal involves choosing
 10. "**From Despair to Euphoria:** The Emotional Story of 'My Bola' Football Club's Rise to Prominence"
 
 These prompts aim to explore the mastery of persuasive language and emotional appeal in the context of the football club "My Bola," showcasing how these techniques contribute to the club's success and resonance with its audience.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

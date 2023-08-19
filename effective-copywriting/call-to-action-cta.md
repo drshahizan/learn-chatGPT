@@ -272,3 +272,5 @@ Ecom World is the website for “The World’s Largest Ecommerce Event.” They 
 
 * The call to action button coordinates well with the rest of the design elements. Throughout the site, the most crucial info tends to be highlighted in black.
 * Multiple CTAs could [increase conversions](https://www.invespcro.com/blog/multiple-call-to-actions-increased-conversions-by-20/). Here, the “Buy Tickets” CTA appears three times above the fold alone (main navigation, in the hero, and in the sticky nanobar)\
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

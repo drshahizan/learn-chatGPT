@@ -194,4 +194,4 @@ When stating the task, be specific and use action words. Instead of **“Write a
 
 Include specific details on how you want the task to be completed, such as the tone, length, and who the target audience will be. This will ensure that ChatGPT delivers a response that meets your expectations.
 
-\
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
