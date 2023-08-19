@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://global-uploads.webflow.com/61cdf3c5e0b8152652e01082/63cae0ed759b1be7f45d129b_thumbnail_ChatGPT-for-Writers_2.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👋 Copywriting with ChatGPT
 
 Welcome to the Copywriting Course! This comprehensive program is designed to equip you with the essential skills and knowledge needed to excel in the world of copywriting. Whether you're a beginner looking to get started or an experienced writer aiming to enhance your skills, this course has something for everyone.
