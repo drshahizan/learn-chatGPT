@@ -47,3 +47,5 @@ The editing and proofreading process often involves collaboration between the co
 ### **Conclusion**
 
 Editing and proofreading are integral stages in the copywriting process that ensure your content is not only well-written but also error-free and engaging. By refining your writing for clarity, accuracy, and coherence, you can create content that effectively communicates your message and resonates with your audience.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)

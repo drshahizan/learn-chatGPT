@@ -86,3 +86,4 @@ Through the magic of storytelling in copywriting, "My Bola" turned its online pr
 
 Incorporating storytelling in copywriting is an art that adds depth and resonance to your message. Whether it's in brand storytelling, content marketing, or advertising, the ability to tell a compelling narrative has the potential to transform ordinary content into a memorable and impactful communication tool.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)
