@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,6 +19,8 @@ layout:
 ---
 
 # 👋 Copywriting with ChatGPT
+
+<figure><img src=".gitbook/assets/MSO chatgpt.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 Welcome to the Copywriting Course! This comprehensive program is designed to equip you with the essential skills and knowledge needed to excel in the world of copywriting. Whether you're a beginner looking to get started or an experienced writer aiming to enhance your skills, this course has something for everyone.
 
