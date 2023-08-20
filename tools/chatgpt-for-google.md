@@ -67,3 +67,5 @@ Yes, you need to have a ChatGPT account to use this extension. You can create an
 </details>
 
 {% embed url="https://www.youtube.com/watch?t=9s&v=jhjNmqXSRYI" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)

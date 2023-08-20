@@ -33,3 +33,5 @@ Rytr is an AI writing assistant that helps you create high-quality content, in j
 {% embed url="https://copysmith.ai/" %}
 
 An AI-enabled writing tool that generates SEO-focused product descriptions that meet the requirements of retailers such as Amazon, Etsy, Flipkart, and eBay.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)
