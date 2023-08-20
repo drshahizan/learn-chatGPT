@@ -22,4 +22,4 @@ coverY: 0
 
 Remember, the overall flow of your copy should be logical and easy to follow. Use subheadings, bullet points, and short paragraphs to make the text scannable and digestible. Keep your tone consistent and aligned with your brand's voice throughout the copy. Regularly revise and refine your copy to ensure that it's persuasive, engaging, and effectively communicates your message.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)
